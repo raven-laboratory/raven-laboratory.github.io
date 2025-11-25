@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: People
 permalink: /people/
+author_profile: true
 ---
 
 # Meet the Team
