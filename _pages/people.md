@@ -5,4 +5,4 @@ permalink: /people/
 author_profile: true
 ---
 
-![Nicola Prezza](nicola.jpg)
+![Nicola Prezza](https://github.com/raven-laboratory/raven-laboratory.github.io/images/nicola.jpg)
