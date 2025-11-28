@@ -23,11 +23,11 @@ repository               : "raven-laboratory/raven-laboratory.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo1.png"
+  avatar           : "logo.jpg"
   name             : "RAVEN"
   pronouns         : # example: "she/her"  
   bio              : "Research on Algorithms VENice"
-  location         : "Mestre, Italy"
+  location         : "Venice, Italy"
   employer         : "Ca' Foscari University of Venice"
   uri              : # URL
   email            : 
