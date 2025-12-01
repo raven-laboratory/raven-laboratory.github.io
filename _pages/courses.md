@@ -12,7 +12,7 @@ The members of the RAVEN group teach several courses at Ca' Foscari University o
 ### Master Courses
 - *Algorithms for Massive Data.*\
 48 hours in the Masters degree in Computer Science.\
-Lecturer: Nicola Prezza, [more details](https://www.unive.it/data/insegnamento/576773).
+Lecturer: Nicola Prezza, [more details](https://www.unive.it/data/insegnamento/576773), [lecture notes](https://arxiv.org/abs/2301.00754).
 
 ### Bachelor Courses
 - *Algorithms and Data Structures.*\
@@ -47,12 +47,6 @@ Lecturer: Nicola Prezza, taught in a.y. 2021/2022, [more details](https://www.un
 ### Master Courses
 - *Algorithms for Massive Data.*\
 48 hours in the Masters degree in Computer Science.\
-Lecturer: Nicola Prezza, taught in a.y. 2024/2025, [more details](https://www.unive.it/data/insegnamento/513727).
+Lecturer: Nicola Prezza, taught in a.y. [2024/2025](https://www.unive.it/data/insegnamento/513727), [a.y. 2023/2024](https://www.unive.it/data/insegnamento/451557), [a.y. 2022/2023](https://www.unive.it/data/insegnamento/398288).
 
-- *Algorithms for Massive Data.*\
-48 hours in the Masters degree in Computer Science.\
-Lecturer: Nicola Prezza, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/451557).
 
-- *Algorithms for Massive Data.*\
-48 hours in the Masters degree in Computer Science.\
-Lecturer: Nicola Prezza, taught in a.y. 2022/2023, [more details](https://www.unive.it/data/insegnamento/398288).
