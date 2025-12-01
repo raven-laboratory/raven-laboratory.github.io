@@ -14,8 +14,8 @@ Feel free to explore our [Publications](https://raven-laboratory.github.io/publi
 
 Main research areas include:
 
-- Compressed data structures
-- Data compression
+- Compressed data structures and data compression
+- String algorithms
 - Randomized and graph algorithms
 - Algorithm engineering
 
