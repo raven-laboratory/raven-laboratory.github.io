@@ -27,7 +27,7 @@ Lecturer: Ruben Becker, [more details](https://www.unive.it/data/course/608557).
 10 hours in the PhD program in Computer Science.\
 Lecturer: Nicola Prezza, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/course/471254/programma).
 
-- *A crash course on data compression.*
+- *A crash course on data compression.*\
 10 hours in the PhD program in Computer Science.\
 Lecturer: Giulio Ermanno Pibiri, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/471255).
 
