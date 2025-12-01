@@ -47,6 +47,6 @@ Lecturer: Nicola Prezza, taught in a.y. 2021/2022, [more details](https://www.un
 ### Master Courses
 - *Algorithms for Massive Data.*\
 48 hours in the Masters degree in Computer Science.\
-Lecturer: Nicola Prezza, taught in a.y. [2024/2025](https://www.unive.it/data/insegnamento/513727), [a.y. 2023/2024](https://www.unive.it/data/insegnamento/451557), [a.y. 2022/2023](https://www.unive.it/data/insegnamento/398288).
+Lecturer: Nicola Prezza, taught in [a.y. 2024/2025](https://www.unive.it/data/insegnamento/513727), [a.y. 2023/2024](https://www.unive.it/data/insegnamento/451557), [a.y. 2022/2023](https://www.unive.it/data/insegnamento/398288).
 
 
