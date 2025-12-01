@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-The members of the RAVEN group are regularly teaching the following courses on topics related to algorithms. Check the websites of the lecturers for courses in the on-going academic year.
+The members of the RAVEN group are regularly teaching the following courses on topics related to algorithms. Check the websites of the group members for more details on the courses in the on-going academic year.
 
 ## PhD courses
 - Compact data structures, lecturer Nicola Prezza, [link](https://www.unive.it/data/course/471254/programma)
