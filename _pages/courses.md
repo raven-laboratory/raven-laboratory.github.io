@@ -23,19 +23,19 @@ Lecturer: Ruben Becker, [more details](https://www.unive.it/data/course/608557).
 ## Past Academic Years
 
 ### PhD Courses
-- *Compact data structures.*\
-10 hours in the PhD program in Computer Science.\
-Lecturer: Nicola Prezza, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/course/471254/programma).
-
 - *An Introduction to Data Compression and Coding Theory.*\
 10 hours in the PhD program in Computer Science.\
 Lecturer: Giulio Ermanno Pibiri, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/471255).
+
+- *Compact data structures.*\
+10 hours in the PhD program in Computer Science.\
+Lecturer: Nicola Prezza, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/course/471254/programma).
 
 - *Randomized Methods in Computer Science.*\
 20 hours in the PhD program in Computer Science.\
 Lecturer: Ruben Becker, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/497968).
 
-- *Compact data structures.*
+- *Compact data structures.*\
 10 hours in the PhD program in Computer Science.\
 Lecturer: Giulio Ermanno Pibiri, taught in a.y. 2022/2023, [more details](https://www.unive.it/data/course/401910).
 
