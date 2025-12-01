@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-The members of the RAVEN group are involved in the following courses on topics related to algorithms.
+The members of the RAVEN group teach several courses at Ca' Foscari University of Venice on topics related to algorithms.
 
 ## Current Academic Year (2025/2026)
 
