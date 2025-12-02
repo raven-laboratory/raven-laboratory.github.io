@@ -4,7 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/ruben_1
 excerpt: 'Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. <br>Two preliminary conference versions were published in DISC 2019 and ITCS 2020.'
-venue: 'SIAM J. Comput. 53(2): 247-286 (2024).'
+venue: 'SIAM J. Comput. 53(2): 247-286'
+date: 2024-01-01
 paperurl: 'https://doi.org/10.1137/22M1489034'
 ---
 
