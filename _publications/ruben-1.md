@@ -2,7 +2,7 @@
 title: "Decentralized Low-Stretch Trees via Low Diameter Graph Decompositions"
 collection: publications
 category: manuscripts
-permalink: /publication/jacm-2023
+permalink: /publication/ruben-1
 excerpt: 'Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. <br>Two preliminary conference versions were published in DISC 2019 and ITCS 2020.
 '
 date: 2023-08-12
