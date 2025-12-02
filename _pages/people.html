@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<!--
+  <div>
+  -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(95%, 300px), 1fr));">
+  {% for person in site.people %}
+    {% include person-item.html %}
+  {% endfor %}
+</div>

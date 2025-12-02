@@ -1,0 +1,10 @@
+<div style="border-radius: 8px; padding: 1rem;">
+    <div style="display: flex;">
+        <img src="{{person.picture}}" style="height: 100px; border-radius: 100%; margin-right: 2rem; border: 1px solid lightgray; padding: 0.25em;">
+        <div style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 style="margin: 0;"> <a href="{{ base_path }}{{ person.url }}" rel="permalink">{{ person.name }}</a> </h2>
+            <h2 style="margin-top: 0;"> <a href="{{ base_path }}{{ person.url }}" rel="permalink">{{ person.surname }}</a> </h2>
+            <h5 style="margin-top: 0;"> {{person.position}} </h5>
+        </div>
+    </div>
+</div>
