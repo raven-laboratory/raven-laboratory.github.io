@@ -4,7 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/nicola_1
 excerpt: 'Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, and Nicola Prezza. <br>Preliminary version published in SODA 2021.'
-venue: 'Journal of the ACM 70.4 (2023): 1-73.'
+venue: 'Journal of the ACM 70.4: 1-73'
+date: 2023-01-01
 paperurl: 'https://dl.acm.org/doi/10.1145/3607471'
 ---
 
