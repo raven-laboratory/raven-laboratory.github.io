@@ -4,7 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/carlo_1
 excerpt: 'Lorenzo Carfagna and Carlo Tosoni'
-date: 2025
 venue: 'International Symposium on String Processing and Information Retrieval.'
 paperurl: 'https://doi.org/10.1007/978-3-032-05228-5_3'
 ---
