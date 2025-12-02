@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Low-Stretch Trees via Low Diameter Graph Decompositions."
+title: "Decentralized Low-Stretch Trees via Low Diameter Graph Decompositions"
 collection: publications
 category: manuscripts
 permalink: /publication/jacm-2023
