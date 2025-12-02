@@ -2,7 +2,7 @@
 title: "Analysing New Entropy Measures for Tries"
 collection: publications
 category: conferences
-permalink: /publication/carlo-1
+permalink: /publication/carlo_1
 excerpt: 'Lorenzo Carfagna and Carlo Tosoni'
 date: 2025
 venue: 'International Symposium on String Processing and Information Retrieval.'
