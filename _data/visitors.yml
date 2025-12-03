@@ -1,0 +1,168 @@
+- name: Sudatta
+  surname: Bhattacharya
+  affiliation: Charles University
+  position: PhD student
+  start: 2024-09-02
+  end: 2024-09-06
+
+- name: Francisco
+  surname: Olivares
+  affiliation: University of Chile
+  position: PhD student
+  start: 2022-10-01
+  end: 2022-10-30
+
+- name: Francisco
+  surname: Olivares
+  affiliation: University of Chile
+  position: PhD student
+  start: 2023-12-01
+  end: 2024-02-29
+
+- name: Travis
+  surname: Gagie
+  affiliation: Dalhousie University
+  position: Professor
+  start: 2023-11-12
+  end: 2023-12-10
+
+- name: Nathaniel K.
+  surname: Brown
+  affiliation: Dalhousie University
+  position: PhD student
+  start: 2023-02-09
+  #to???
+
+- name: Tomasz
+  surname: Kociumaka
+  affiliation: Max-Planck-Institut für Informatik
+  position: Postdoc
+  start: 2023-06-05
+  end: 2023-06-09
+
+- name: Giovanna
+  surname: D'Agostino
+  affiliation: Università degli studi di Udine
+  position: Professor
+  start: 2023-06-15
+  end: 2023-06-16
+
+- name: Alberto
+  surname: Policriti
+  affiliation: Università degli studi di Udine
+  position: Professor
+  start: 2023-06-15
+  end: 2023-06-16
+
+- name: Nicola
+  surname: Gigante
+  affiliation: Libera Università di Bolzano
+  position: Professor #(TA)??
+  start: 2023-06-28
+  end: 2023-06-30
+
+- name: Dominik
+  surname: Köppl
+  affiliation: Università di Münster #right or to be updated
+  position: Professor
+  start: 2023-08-02
+  end: 2023-08-08
+
+- name: Jarno N.
+  surname: Alanko
+  affiliation: University of Helsinki
+  position: Postdoc
+  start: 2023-09-30
+  end: 2023-10-31
+
+- name: Nicola
+  surname: Cotumaccio
+  affiliation: GSSI - Gran Sasso Science Institute
+  position: PhD student
+  start: 2023-11-02
+  end: 2023-11-28
+
+- name: Ana Shirley
+  surname: Ferreira da Silva
+  affiliation: Department of Mathematics - Universidade Federal do Ceará
+  position: Professor
+  start: 2022-09-11
+  end: 2022-09-15
+
+- name: Ragnar
+  surname: Groot Koerkamp
+  affiliation: Department of Computer Science - ETH Zürich
+  position: Postdoc #right??
+  start: 2025-05-01
+  end: 2025-06-01
+
+- name: João Vitor
+  surname: Hartung Toppa
+  affiliation: Institute of Computing - University of Campinas
+  position: Master student #???
+  start: 2025-12-01
+  end: 2026-02-28
+
+- name: Andrea
+  surname: Marino
+  affiliation: DiSIA - Università degli Studi di Firenze
+  #Dipartimento di Statistica, Informatica, Applicazioni 'G. Parenti' (DiSIA) - 
+  position: Professor
+  start: 2022-09-11
+  end: 2022-09-15
+
+- name: Daniel
+  surname: Lemire
+  affiliation: TELUQ - Université du Québec
+  position: Professor
+  start: 2025-07-22
+  end: 2025-07-25
+
+- name: Sebastiano 
+  surname: Vigna
+  affiliation: Università degli Studi di Milano Statale
+  position: Professor
+  start: 2025-07-22
+  end: 2025-07-25
+
+- name: Giulia 
+  surname: Bernardini
+  affiliation: Università degli Studi di Milano Statale
+  position: Professor #RTT
+  start: 2025-07-22
+  end: 2025-07-25
+
+- name: Roberto 
+  surname: Grossi
+  affiliation: University of Pisa
+  position: Professor 
+  start: 2025-07-22
+  end: 2025-07-25
+
+- name: Giovanni  
+  surname: Manzini
+  affiliation: University of Pisa
+  position: Professor 
+  start: 2025-07-22
+  end: 2025-07-25
+
+- name: Lorenzo 
+  surname: Carfagna
+  affiliation: University of Pisa
+  position: PhD student 
+  start: 2025-01-12
+  end: 2025-01-12
+  
+- name: Gabriele
+  surname: Finci
+  affiliation: Università degli Studi di Palermo
+  position: Professor 
+  start: 2024-11-04
+  end: 2024-11-07
+
+- name: Adrián
+  surname: Goga
+  affiliation: Comenius University Bratislava
+  position: PhD student
+  start: 2024-12-09
+  end: 2024-12-13

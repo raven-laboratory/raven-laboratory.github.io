@@ -1,0 +1,81 @@
+---
+layout: archive
+title: Visitors
+permalink: /visitors/
+author_profile: true
+---
+
+<style>
+  /* Use theme colors when available */
+  :root {
+    --card-bg: #ffffff;
+    --card-border: #e0e0e0;
+    --card-hover-shadow: rgba(0, 0, 0, 0.12);
+    --text-strong: #333;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --card-bg: #2b2b2b;
+      --card-border: #444;
+      --card-hover-shadow: rgba(0, 0, 0, 0.4);
+      --text-strong: #eee;
+    }
+  }
+
+  .visitor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(max(260px, calc((100% - 1.2rem) / 2)), 1fr));
+    gap: 1.2rem;
+    margin-top: 1.5rem;
+  }
+
+  .visitor-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    transition: box-shadow 0.2s ease, background 0.2s ease;
+  }
+
+  .visitor-card:hover {
+    box-shadow: 0 4px 14px var(--card-hover-shadow);
+  }
+
+  .visitor-name {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: .3rem;
+    color: var(--text-strong);
+  }
+
+  .visitor-field {
+    margin: 0.12rem 0;
+    font-size: 0.95rem;
+  }
+</style>
+
+
+<div class="visitor-grid">
+  {% assign visitors = site.data.visitors | sort: "start" | reverse %}
+
+  <div class="visitor-grid">
+    {% for v in visitors %}
+    <div class="visitor-card">
+      <div class="visitor-name"><u>{{ v.name }} {{ v.surname }}</u></div>
+      <div class="visitor-field"><strong>Affiliation:</strong> {{ v.affiliation }}</div>
+      <div class="visitor-field"><strong>Position:</strong> {{ v.position }}</div>
+
+      <div class="visitor-field">
+        <strong>Period:</strong>
+        {% if v.end %}
+        {{ v.start | date: "%d/%m/%Y" }} – {{ v.end | date: "%d/%m/%Y" }}
+        {% else %}
+        {{ v.start | date: "%d/%m/%Y" }}
+        {% endif %}
+      </div>
+
+    </div>
+    {% endfor %}
+  </div>
+</div>
