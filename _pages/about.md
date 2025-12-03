@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,3 +21,8 @@ Main research areas include:
 
 If you share our passion for algorithms and their implementation, get in touch with us!
 
+<p align="center">
+  <img src="images/RAVEN-03-12-25.jpg" alt="RAVEN"/>
+  <br>
+  <b>RAVEN, 3 Dec 2025</b>
+</p>
