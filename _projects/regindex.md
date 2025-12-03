@@ -27,6 +27,8 @@ website: "https://pric.unive.it/projects/regindex/home"
   .project-meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.75rem; margin-bottom: 1rem; }
   .project-meta-item { border: 1px solid var(--global-border-color); border-radius: 8px; padding: 0.75rem; }
   .project-cta { margin-bottom: 1rem; }
+  .regindex-grid { display: grid; grid-template-columns: minmax(240px, 40%) 1fr; gap: 1rem; align-items: start; }
+  @media (max-width: 768px) { .regindex-grid { grid-template-columns: 1fr; } .regindex-grid figure { margin-bottom: 0.5rem; } }
 </style>
 
 <div class="project-hero">
@@ -81,4 +83,12 @@ Sorting is, arguably, the most powerful algorithmic building block when it comes
 
 The project finds important applications to the rapidly-expanding field of computational pangenomics, where the goal is to study the variations contained in the genomes of an entire population. Recent research has shown that representing pan-genomes as labeled graphs is an important step to reduce reference allele bias. Existing approaches, however, can index only restricted classes of graphs, thereby limiting the practical applicability of such powerful pan-genome representations. 
 
-The project’s approach, based on sorting regular languages by partial co-lexicographic orders (see figure), changes the perspective from which the compressed indexing problem has been tackled in the literature. This project aims at developing a theory of graph indexing and compression based on the natural interplay between sorting and regular language theory. 
+<div class="regindex-grid">
+  <figure style="margin: 0;">
+    <img src="{{ "/images/partial_order.png" | relative_url }}" alt="Partial co-lexicographic order of a DFA" style="width: 100%; height: auto; border: 1px solid var(--global-border-color); border-radius: 8px; margin-bottom: 0rem;">
+    <figcaption style="font-size: 0.9em; color: var(--global-fig-caption-color); margin-bottom: 0.5rem;">Partial co-lexicographic order of a DFA</figcaption>
+  </figure>
+  <div>
+    The project’s approach, based on sorting regular languages by partial co-lexicographic orders (see figure), changes the perspective from which the compressed indexing problem has been tackled in the literature. This project aims at developing a theory of graph indexing and compression based on the natural interplay between sorting and regular language theory.
+  </div>
+</div>
