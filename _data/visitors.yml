@@ -84,29 +84,28 @@
 
 - name: Ana Shirley
   surname: Ferreira da Silva
-  affiliation: Department of Mathematics - Universidade Federal do Ceará
+  affiliation: Universidade Federal do Ceará
   position: Professor
   start: 2022-09-11
   end: 2022-09-15
 
 - name: Ragnar
   surname: Groot Koerkamp
-  affiliation: Department of Computer Science - ETH Zürich
+  affiliation: ETH Zürich
   position: Postdoc #right??
   start: 2025-05-01
   end: 2025-06-01
 
 - name: João Vitor
   surname: Hartung Toppa
-  affiliation: Institute of Computing - University of Campinas
+  affiliation: Universidade Estadual de Campinas
   position: Master student #???
   start: 2025-12-01
   end: 2026-02-28
 
 - name: Andrea
   surname: Marino
-  affiliation: DiSIA - Università degli Studi di Firenze
-  #Dipartimento di Statistica, Informatica, Applicazioni 'G. Parenti' (DiSIA) - 
+  affiliation: Università degli Studi di Firenze
   position: Professor
   start: 2022-09-11
   end: 2022-09-15
