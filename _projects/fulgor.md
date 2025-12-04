@@ -4,7 +4,7 @@ excerpt: "Fulgor is a colored de Bruijn graph index for large-scale matching and
 white-logo: "/images/fulgor_logo.png"
 black-logo: "/images/fulgor_logo.png"
 people_slugs:
-  - pibiri-giulio
+  - pibiri-giulio-ermanno
   - campanelli-alessio
   - cologni-davide
 website: "https://github.com/jermp/fulgor"

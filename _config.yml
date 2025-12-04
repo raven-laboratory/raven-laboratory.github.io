@@ -25,9 +25,9 @@ repository: "raven-laboratory/raven-laboratory.github.io"
 author:
   # Biographic information
   avatar: "raven-logo.png"
-  name: "RAVEN"
+  name: "RAVEN - Research on Algorithms VENice"
   pronouns: # example: "she/her"
-  bio: "Research on Algorithms VENice"
+  bio: ""
   location: "Venice, Italy"
   employer: "Ca' Foscari University of Venice"
   uri: # URL
