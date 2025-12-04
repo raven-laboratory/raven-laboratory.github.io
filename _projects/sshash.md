@@ -4,7 +4,7 @@ excerpt: "SSHash is a compressed dictionary data structure for k-mers (strings o
 white-logo: "/images/sshash_logo.png"
 black-logo: "/images/sshash_logo.png"
 people_slugs:
-  - pibiri-giulio
+  - pibiri-giulio-ermanno
   - campanelli-alessio
   - cologni-davide
 website: "https://github.com/jermp/sshash"

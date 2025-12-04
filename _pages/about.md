@@ -24,5 +24,5 @@ If you share our passion for algorithms and their implementation, get in touch w
 <p align="center">
   <img src="images/RAVEN-03-12-25.jpg" alt="RAVEN"/>
   <br>
-  <b>RAVEN, 3 Dec 2025</b>
+  RAVEN, 3 December 2025
 </p>
