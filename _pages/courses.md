@@ -25,7 +25,7 @@ Lecturer: Ruben Becker, [more details](https://www.unive.it/data/course/608557).
 ### PhD Courses
 - *An Introduction to Data Compression and Coding Theory.*\
 10 hours in the PhD program in Computer Science.\
-Lecturer: Giulio Ermanno Pibiri, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/471255).
+Lecturer: Giulio Ermanno Pibiri, taught in a.y. 2023/2024, [more details](https://www.unive.it/data/insegnamento/471255), [material](https://github.com/jermp/data_compression_course).
 
 - *Compact data structures.*\
 10 hours in the PhD program in Computer Science.\

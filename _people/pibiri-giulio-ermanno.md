@@ -1,5 +1,5 @@
 ---
-name: "Giulio"
+name: "Giulio Ermanno"
 surname: "Pibiri"
 position: "Associate Professor"
 description: "TODO"
