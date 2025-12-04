@@ -1,8 +1,8 @@
 ---
 title: "REGINDEX"
 excerpt: "Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics."
-white-logo: "/images/regindex_logo_white.png"
-black-logo: "/images/regindex_logo_black.jpg"
+white-logo: "/images/regindex_logo.jpg"
+black-logo: "/images/regindex_logo.jpg"
 people_slugs:
   - prezza-nicola
   - becker-ruben
@@ -14,7 +14,7 @@ people_slugs:
   - tonetto-davide
 grants:
   - name: "European Research Council (ERC) grant agreement No. 101039208."
-    url: "https://erc.europa.eu/"
+    url: "https://cordis.europa.eu/project/id/101039208"
 website: "https://pric.unive.it/projects/regindex/home"
 ---
 
