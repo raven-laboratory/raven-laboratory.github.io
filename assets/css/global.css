@@ -1,3 +1,14 @@
+/*
+File created to provide some CSS classes shared among all the pages of the website, below a brief documentation.
+
+.card-list -> Used to handle iteratively a list of objects that has to be uploaded. (div component)
+.card-item -> class representing a single element of a list (div component)
+.card-main -> Used for the main field (title) of the list element
+.card-field -> Used for the other fields in the list element
+*/
+
+
+
 .card-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(max(280px, calc((100% - 1.2rem) / 2)), 1fr));
