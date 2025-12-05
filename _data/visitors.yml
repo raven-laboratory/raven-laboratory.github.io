@@ -92,9 +92,30 @@
 - name: Ragnar
   surname: Groot Koerkamp
   affiliation: ETH Zürich
-  position: Postdoc #right??
+  position: PhD student
   start: 2025-05-01
   end: 2025-06-01
+
+- name: Ragnar
+  surname: Groot Koerkamp
+  affiliation: ETH Zürich
+  position: PhD student
+  start: 2025-01-22
+  end: 2025-01-28
+
+- name: Ragnar
+  surname: Groot Koerkamp
+  affiliation: ETH Zürich
+  position: PhD student
+  start: 2024-01-15
+  end: 2024-01-26
+
+- name: Yoshihiro
+  surname: Shibuya
+  affiliation: Institut Pasteur
+  position: Postdoc
+  start: 2022-12-21
+  end: 2022-12-21
 
 - name: João Vitor
   surname: Hartung Toppa
@@ -117,45 +138,52 @@
   start: 2025-07-22
   end: 2025-07-25
 
-- name: Sebastiano 
+- name: Sebastiano
   surname: Vigna
   affiliation: Università degli Studi di Milano Statale
   position: Professor
   start: 2025-07-22
   end: 2025-07-25
 
-- name: Giulia 
+- name: Sebastiano
+  surname: Vigna
+  affiliation: Università degli Studi di Milano Statale
+  position: Professor
+  start: 2025-04-09
+  end: 2025-04-11
+
+- name: Giulia
   surname: Bernardini
   affiliation: Università degli Studi di Milano Statale
-  position: Professor #RTT
+  position: Professor
   start: 2025-07-22
   end: 2025-07-25
 
-- name: Roberto 
+- name: Roberto
   surname: Grossi
   affiliation: University of Pisa
-  position: Professor 
+  position: Professor
   start: 2025-07-22
   end: 2025-07-25
 
-- name: Giovanni  
+- name: Giovanni
   surname: Manzini
   affiliation: University of Pisa
-  position: Professor 
+  position: Professor
   start: 2025-07-22
   end: 2025-07-25
 
-- name: Lorenzo 
+- name: Lorenzo
   surname: Carfagna
   affiliation: University of Pisa
-  position: PhD student 
+  position: PhD student
   start: 2025-01-12
   end: 2025-01-12
-  
+
 - name: Gabriele
-  surname: Finci
+  surname: Fici
   affiliation: Università degli Studi di Palermo
-  position: Professor 
+  position: Professor
   start: 2024-11-04
   end: 2024-11-07
 
