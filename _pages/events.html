@@ -32,11 +32,8 @@ author_profile: true
       </div>
       <p class="event-date">{{ e.date }}</p>
     </div>
-    <div class="card-field">{{ e.description }}</div>
-    <div class="card-field">
-      <p style="margin: 0px;">{{ e.url-intro }} 
-        <a href="{{ e.url }}">{{ e.url-text }}</a>.
-      </p>
+    <div class="card-field">{{ e.description }}
+      <a href="{{ e.url }}">{{ e.url-text }}</a>.
     </div>
   </div>
   {% endfor %}
