@@ -1,0 +1,12 @@
+---
+title: "A survey of BWT variants for string collections"
+collection: publications
+category: manuscripts
+permalink: /publication/davide_ce_1
+authors: "Davide Cenzato and Zsuzsanna Lipták."
+venue: "Bioinformatics, Volume 40, Issue 7"
+date: 2024-01-01
+paperurl: "https://doi.org/10.1093/bioinformatics/btae333"
+---
+
+In recent years, the focus of bioinformatics research has moved from individual sequences to collections of sequences. Given the fundamental role of the Burrows–Wheeler transform (BWT) in string processing, a number of dedicated tools have been developed for computing the BWT of string collections. While the focus has been on improving efficiency, both in space and time, the exact definition of the BWT used has not been at the center of attention. As we show in this paper, the different tools in use often compute non-equivalent BWT variants: the resulting transforms can differ from each other significantly, including the number r of runs, a central parameter of the BWT. Moreover, with many tools, the transform depends on the input order of the collection. In other words, on the same dataset, the same tool may output different transforms if the dataset is given in a different order. We studied 18 dedicated tools for computing the BWT of string collections and were able to identify 6 different BWT variants computed by these tools. We review the differences between these BWT variants, both from a theoretical and from a practical point of view, comparing them on eight real-life biological datasets with different characteristics. We find that the differences can be extensive, depending on the datasets, and are largest on collections of many similar short sequences. The parameter r, the number of runs of the BWT, also shows notable variation between the different BWT variants; on our datasets, it varied by a multiplicative factor of up to 4.2.
