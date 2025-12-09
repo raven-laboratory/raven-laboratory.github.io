@@ -22,7 +22,7 @@ Main research areas include:
 If you share our passion for algorithms and their implementation, get in touch with us!
 
 <p align="center">
-  <img src="images/RAVEN-03-12-25.jpg" alt="RAVEN"/>
+  <img src="images/RAVEN-03-12-25.jpg" alt="RAVEN" style="border-radius: .5rem"/>
   <br>
   RAVEN, 3 December 2025
 </p>

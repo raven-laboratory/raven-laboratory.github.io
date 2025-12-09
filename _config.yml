@@ -283,7 +283,7 @@ defaults:
       path: ""
       type: people
     values:
-      layout: person-single
+      layout: person
       author_profile: true
       share: false
       comment: true
@@ -300,7 +300,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: project
       author_profile: true
       share: false
       comment: true

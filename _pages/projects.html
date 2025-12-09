@@ -21,17 +21,17 @@ author_profile: true
   {% for project in site.projects %}
     <div class="card-item card-item-clickable" onclick="location.href='{{ base_path }}{{ project.url }}'">
       <div style="display: flex; align-items: flex-start;">
-        {% assign light_logo = project["black-logo"] | default: "/images/raven-logo.png" %}
-        {% assign dark_logo  = project["white-logo"] | default: "/images/raven-logo.png" %}
-        <img class="project-logo project-logo--light" src="{{ dark_logo | relative_url }}" alt="{{ project.title }} logo">
-        <img class="project-logo project-logo--dark"  src="{{ light_logo  | relative_url }}" alt="{{ project.title }} logo">
         <div style="flex: 1 1 auto;">
-          <h2 style="margin-top: 0;">
+          {% assign light_logo = project["black-logo"] | default: "/images/raven-logo.png" %}
+          {% assign dark_logo  = project["white-logo"] | default: "/images/raven-logo.png" %}
+          <img class="project-logo project-logo--light" src="{{ dark_logo | relative_url }}" alt="{{ project.title }} logo">
+          <img class="project-logo project-logo--dark"  src="{{ light_logo  | relative_url }}" alt="{{ project.title }} logo">
+          <h2 class="card-main" style="margin-top: 0;">
             {{ project.title }}
           </h2>
-          <p>{{ project.excerpt | default: project.description | default: project.summary }}</p>
+          <p style="margin-bottom: 0; margin-top: .25rem">{{ project.excerpt | default: project.description | default: project.summary }}</p>
 
-          <p>
+          <p style="margin-bottom: 0;">
             <strong>People:</strong>
             {% if project.people_slugs %}
               {% for slug in project.people_slugs %}
@@ -48,7 +48,7 @@ author_profile: true
           </p>
 
           {% if project.grants and project.grants.size > 0 %}
-          <p>
+          <p style="margin-bottom: 0;">
             <strong>Grant:</strong>
             {% for g in project.grants %}
               {% if g.url %}
