@@ -19,7 +19,7 @@ author_profile: true
 
 <div class="card-list">
   {% for project in site.projects %}
-    <div class="card-item" onclick="location.href='{{ base_path }}{{ project.url }}'" style="cursor: pointer;">
+    <div class="card-item card-item-clickable" onclick="location.href='{{ base_path }}{{ project.url }}'">
       <div style="display: flex; align-items: flex-start;">
         {% assign light_logo = project["black-logo"] | default: "/images/raven-logo.png" %}
         {% assign dark_logo  = project["white-logo"] | default: "/images/raven-logo.png" %}
