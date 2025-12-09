@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+<link rel="stylesheet" href="/assets/css/global.css">
 
 <style>
-  .project-logo { width: 56px; height: 56px; aspect-ratio: 1 / 1; box-sizing: border-box; flex-shrink: 0; border-radius: 8px; margin-right: 1rem; border: 1px solid var(--global-border-color); object-fit: contain; }
+  .project-logo { width: 40px; height: 40px; aspect-ratio: 1 / 1; box-sizing: border-box; flex-shrink: 0; border-radius: 8px; margin-right: 0.75rem; border: 1px solid var(--global-border-color); object-fit: contain; }
   .project-logo--dark { display: none; }
   html[data-theme="dark"] .project-logo--light { display: none; }
   html[data-theme="dark"] .project-logo--dark { display: inline; }
@@ -16,9 +17,9 @@ author_profile: true
   .fancy-separator { height: 2px; background: linear-gradient(to right, transparent, var(--global-dark-border-color) 25%, var(--global-dark-border-color) 75%, transparent); margin: 0.5rem 0 0 0; border: 0; }
 </style>
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 0.5rem;">
+<div class="card-list">
   {% for project in site.projects %}
-    <div class="project-card">
+    <div class="card-item" onclick="location.href='{{ base_path }}{{ project.url }}'" style="cursor: pointer;">
       <div style="display: flex; align-items: flex-start;">
         {% assign light_logo = project["black-logo"] | default: "/images/raven-logo.png" %}
         {% assign dark_logo  = project["white-logo"] | default: "/images/raven-logo.png" %}
@@ -26,7 +27,7 @@ author_profile: true
         <img class="project-logo project-logo--dark"  src="{{ light_logo  | relative_url }}" alt="{{ project.title }} logo">
         <div style="flex: 1 1 auto;">
           <h2 style="margin-top: 0;">
-            <a href="{{ base_path }}{{ project.url }}" rel="permalink">{{ project.title }}</a>
+            {{ project.title }}
           </h2>
           <p>{{ project.excerpt | default: project.description | default: project.summary }}</p>
 
@@ -62,7 +63,6 @@ author_profile: true
           {% endif %}
         </div>
       </div>
-      {% unless forloop.last %}<div class="fancy-separator" aria-hidden="true"></div>{% endunless %}
     </div>
   {% endfor %}
 </div>
