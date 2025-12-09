@@ -1,13 +1,13 @@
 ---
-title: "Fulgor"
-excerpt: "Fulgor is a colored de Bruijn graph index for large-scale matching and color queries, powered by SSHash and GGCAT."
+title: "Streaming and Sketching"
+excerpt: "Streaming and Sketching"
 white-logo: "/images/fulgor_logo.png"
 black-logo: "/images/fulgor_logo.png"
 people_slugs:
-  - pibiri-giulio-ermanno
-  - campanelli-alessio
-  - cologni-davide
-website: "https://github.com/jermp/fulgor"
+  - becker-ruben
+  - cenzato-davide
+  - prezza-nicola
+  - tosoni-carlo
 ---
 
 <style>
@@ -69,17 +69,5 @@ website: "https://github.com/jermp/fulgor"
   {% endif %}
 </div>
 
-## Publications
-The Fulgor index is described in the following papers.
+## Description
 
-- **[Fulgor: A Fast and Compact k-mer Index for Large-Scale Matching and Color Queries](https://almob.biomedcentral.com/articles/10.1186/s13015-024-00251-9)**  
-  *Algorithms for Molecular Biology (ALMOB)*, 2024.
-
-- **[Meta-colored Compacted de Bruijn Graphs](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_9)**  
-  *International Conference on Research in Computational Molecular Biology (RECOMB)*, 2024.
-
-- **[Where the Patterns Are: Repetition-Aware Compression for Colored de Bruijn Graphs](https://www.liebertpub.com/doi/10.1089/cmb.2024.0714)**  
-  *Journal of Computational Biology (JCB)*, 2024.
-
-- **[Fast Pseudoalignment Queries on Compressed Colored de Bruijn Graphs](https://doi.org/10.4230/LIPIcs.WABI.2025.6)**  
-  *International Conference on Algorithms for Bioinformatics (WABI)*, 2025.
