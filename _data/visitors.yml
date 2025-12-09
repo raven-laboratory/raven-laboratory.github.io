@@ -193,3 +193,10 @@
   position: PhD student
   start: 2024-12-09
   end: 2024-12-13
+  
+- name: Cosimo
+  surname: Vinci
+  affiliation: Università del Salento
+  position: Professor
+  start: 2023-10-16
+  end: 2023-10-27
