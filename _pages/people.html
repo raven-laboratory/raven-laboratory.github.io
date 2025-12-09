@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(95%, 300px), 1fr)); gap: 1em;">
   {% for person in site.people %}
-    <div class="card-item" style="cursor: pointer;" onclick="location.href='{{ base_path }}{{ person.url }}';">
+    <div class="card-item card-item-clickable" onclick="location.href='{{ base_path }}{{ person.url }}';">
       <div style="display: flex;">
           <img src="{{person.picture}}" style="height: 100px; border-radius: 100%; margin-right: 2rem; border: 1px solid lightgray; padding: 0.25em;">
           <div style="display: flex; flex-direction: column; justify-content: center;">

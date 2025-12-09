@@ -7,14 +7,54 @@ author_profile: true
 
 <link rel="stylesheet" href="/assets/css/global.css">
 
+<style>
+  .event-date {
+    margin: 0px 1em 0px 0px !important;
+    font-size: 0.9rem !important;
+    float: right !important;
+    font-weight: 400 !important;
+  }
+
+  .event-imp {
+    margin-top: 1.5em !important;
+  }
+</style>
+
+<h2 class="event-imp">Conferences and workshops</h2>
+
 <div class="card-list">
   {% assign events = site.data.events | sort: "date" | reverse %}
-
   {% for e in events %}
   <div class="card-item">
-    <div class="card-main">{{ e.title }}</div>
+    <div style="width: 100%; margin-bottom: 1em;">
+      <div class="card-main" style="display: inline-block;">
+        <h3 style="margin: 0px 0px 0.25em 0px">{{ e.title }}</h3>
+      </div>
+      <p class="event-date">{{ e.date }}</p>
+    </div>
     <div class="card-field">{{ e.description }}</div>
-    <div class="card-field"><a href="{{ e.url }}">{{ e.url }}</a><p class="date">{{ e.date }}</p></div>
+    <div class="card-field">
+      <p style="margin: 0px;">{{ e.url-intro }} 
+        <a href="{{ e.url }}">{{ e.url-text }}</a>.
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h2 class="event-imp">Seminars</h2>
+
+<div class="card-list">
+  {% assign seminars = site.data.seminars | sort: "date" | reverse %}
+  {% for s in seminars %}
+  <div class="card-item">
+    <div style="width: 100%; margin-bottom: 1em;">
+      <div class="card-main" style="display: inline-block;">
+        <p style="margin: 0px">{{ s.title }}</p>
+      </div>
+      <p class="event-date">{{ s.date }}</p>
+    </div>
+    <div class="card-field">Speaker: {{ s.speaker }}</div>
   </div>
   {% endfor %}
 </div>

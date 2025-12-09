@@ -3,10 +3,11 @@ File created to provide some CSS classes shared among all the pages of the websi
 
 .card-list -> Used to handle iteratively a list of objects that has to be uploaded. (div component)
 .card-item -> class representing a single element of a list (div component)
-.card-main -> Used for the main field (title) of the list element
-.card-field -> Used for the other fields in the list element
+.card-item-clickable -> class used for all the ".card-item" components that are links to other pages, i.e., that are using the "onClick" attribute. All the elements of this class must be also elements of the class ".card-item"
+.card-main -> Used for the main field (title) of the card-item element
+.card-field -> Used for the other fields in the card-item element
+.card-footer -> Used for a footer field of the card-item element
 */
-
 
 
 .card-list {
@@ -26,7 +27,11 @@ File created to provide some CSS classes shared among all the pages of the websi
   transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
 }
 
-.card-item:hover {
+.card-item-clickable {
+  cursor: pointer;
+}
+
+.card-item-clickable:hover {
   transform: translateY(-3px);
   background-color: #ffffff !important;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
@@ -43,6 +48,13 @@ File created to provide some CSS classes shared among all the pages of the websi
   display: inline-block;
 }
 
+.card-field {
+  font-size: 0.95rem;
+  margin: 0.3rem 0;
+  line-height: 1.5;
+  color: #4b5563 !important;
+}
+
 .card-footer {
   font-size: 0.8rem;
   font-weight: 500;
@@ -53,23 +65,6 @@ File created to provide some CSS classes shared among all the pages of the websi
   display: inline-block;
 }
 
-.card-field {
-  font-size: 0.95rem;
-  margin: 0.3rem 0;
-  line-height: 1.5;
-  color: #4b5563 !important;
-}
-
-.card-field strong {
-  color: #1f2937 !important;
-  font-weight: 600;
-}
-
-.date {
-  font-size: 0.9rem;
-  float: right;
-}
-
 [data-theme="dark"] .card-item {
   background-color: #2a2a2a !important;
 
@@ -77,7 +72,7 @@ File created to provide some CSS classes shared among all the pages of the websi
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
-[data-theme="dark"] .card-item:hover {
+[data-theme="dark"] .card-item-clickable:hover {
   background-color: #333333 !important;
   /* Slightly lighter neutral grey on hover */
   border-color: #555555 !important;
@@ -88,15 +83,11 @@ File created to provide some CSS classes shared among all the pages of the websi
   border-color: #404040;
 }
 
-[data-theme="dark"] .card-footer {
-  color: #ffffff !important;
-  border-color: #404040;
-}
-
 [data-theme="dark"] .card-field {
   color: #d4d4d4 !important;
 }
 
-[data-theme="dark"] .card-field strong {
-  color: #f0f0f0 !important;
+[data-theme="dark"] .card-footer {
+  color: #ffffff !important;
+  border-color: #404040;
 }

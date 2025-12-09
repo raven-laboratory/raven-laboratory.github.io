@@ -1,4 +1,13 @@
 - title: We will host DSB 2026!
   date: 2025-12-05
-  description: The next edition of the rewnoned workshop "Data Structures in Bioinformatics" will be hosted by the Ca' Foscari University of Venice. Are you interested in these topics? Find out more information on our webpage!
+  description: The next edition of the rewnoned workshop "Data Structures in Bioinformatics" will be hosted by the Ca' Foscari University of Venice. Are you interested in these topics? Register now!
+  url-intro: Find more info on our
+  url-text:  webpage
   url: https://dsb-meeting.github.io/DSB2026/
+
+- title: We organised SEA 2025
+  date: 2025-07-24
+  description: The 23rd edition of the Symposium on Experimental Algorithms (SEA '25) was held at the Ca' Foscari Univertsity of Venice in the Auditorium Santa Margherita.
+  url-intro: Check out more info about this event in the following
+  url-text:  link
+  url: https://regindex.github.io/sea2025.github.io/index.html
