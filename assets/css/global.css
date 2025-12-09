@@ -10,78 +10,93 @@ File created to provide some CSS classes shared among all the pages of the websi
 
 
 .card-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(max(280px, calc((100% - 1.2rem) / 2)), 1fr));
-    gap: 1.5rem;
-    margin-top: 1.5rem;
-  }
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(max(280px, calc((100% - 1.2rem) / 2)), 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
 
-  .card-item {
-    background-color: #f9fafb !important;
-    border: 1px solid #d1d5db !important;
+.card-item {
+  background-color: #f9fafb !important;
+  border: 1px solid #d1d5db !important;
 
-    border-radius: 8px;
-    padding: 1.1rem;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
-  }
+  border-radius: 8px;
+  padding: 1.1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
 
-  .card-item:hover {
-    transform: translateY(-3px);
-    background-color: #ffffff !important;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
-    border-color: #9ca3af !important;
-  }
+.card-item:hover {
+  transform: translateY(-3px);
+  background-color: #ffffff !important;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  border-color: #9ca3af !important;
+}
 
-  .card-main {
-    font-size: 1.2rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
-    color: #111827 !important;
-    border-bottom: 2px solid #e5e7eb;
-    padding-bottom: 0.25rem;
-    display: inline-block;
-  }
+.card-main {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #111827 !important;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.25rem;
+  display: inline-block;
+}
 
-  .card-field {
-    font-size: 0.95rem;
-    margin: 0.3rem 0;
-    line-height: 1.5;
-    color: #4b5563 !important;
-  }
+.card-footer {
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-top: 0.5rem;
+  color: #111827 !important;
+  border-top: 2px solid #e5e7eb;
+  padding-top: 0.25rem;
+  display: inline-block;
+}
 
-  .card-field strong {
-    color: #1f2937 !important;
-    font-weight: 600;
-  }
+.card-field {
+  font-size: 0.95rem;
+  margin: 0.3rem 0;
+  line-height: 1.5;
+  color: #4b5563 !important;
+}
 
-  .date {
-    font-size: 0.9rem;
-    float: right;
-  }
+.card-field strong {
+  color: #1f2937 !important;
+  font-weight: 600;
+}
 
-  [data-theme="dark"] .card-item {
-    background-color: #2a2a2a !important;
+.date {
+  font-size: 0.9rem;
+  float: right;
+}
 
-    border-color: #404040 !important;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
-  }
+[data-theme="dark"] .card-item {
+  background-color: #2a2a2a !important;
 
-  [data-theme="dark"] .card-item:hover {
-    background-color: #333333 !important;
-    /* Slightly lighter neutral grey on hover */
-    border-color: #555555 !important;
-  }
+  border-color: #404040 !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
 
-  [data-theme="dark"] .card-main {
-    color: #ffffff !important;
-    border-bottom-color: #404040;
-  }
+[data-theme="dark"] .card-item:hover {
+  background-color: #333333 !important;
+  /* Slightly lighter neutral grey on hover */
+  border-color: #555555 !important;
+}
 
-  [data-theme="dark"] .card-field {
-    color: #d4d4d4 !important;
-  }
+[data-theme="dark"] .card-main {
+  color: #ffffff !important;
+  border-color: #404040;
+}
 
-  [data-theme="dark"] .card-field strong {
-    color: #f0f0f0 !important;
-  }
+[data-theme="dark"] .card-footer {
+  color: #ffffff !important;
+  border-color: #404040;
+}
+
+[data-theme="dark"] .card-field {
+  color: #d4d4d4 !important;
+}
+
+[data-theme="dark"] .card-field strong {
+  color: #f0f0f0 !important;
+}
