@@ -38,26 +38,26 @@ The project finds important applications to the rapidly-expanding field of compu
 
 1 - Indexing
 
-- [Minimum-WDFA-Constructor](https://github.com/regindex/Minimum-WDFA-Constructor) - Tool to construct the minimum Wheeler deterministic finite automaton (WDFA) equivalent to a given minimum DFA of a Wheeler language.
-- [NFA-index](https://github.com/regindex/NFA-index) - Tool to construct an index for a sorted NFA, supporting efficient count, locate, and membership queries.
+- [Minimum-WDFA-Constructor](https://github.com/regindex/Minimum-WDFA-Constructor) - Software to construct the minimum Wheeler deterministic finite automaton (WDFA) equivalent to a given minimum DFA of a Wheeler language.
+- [NFA-index](https://github.com/regindex/NFA-index) - Software to construct an index for a sorted NFA, supporting efficient count, locate, and membership queries.
 
 ---
 
 2 - Sorting
 
-- [finite-automata-partition-refinement](https://github.com/regindex/Finite-Automata-Partition-Refinement) - Tool that provides automata-sorting functionalities based on the partition refinement algorithm.
-- [DFA-suffix-doubling](https://github.com/regindex/DFA-suffix-doubling) - A tool that computes the co-lexicographical ordering of DFA states using a suffix-doubling algorithm generalized to automata.
-- [Labeled-Graph-LCP](https://github.com/regindex/Labeled-Graph-LCP) - Tool implementing a software for computing the Longest Common Prefix (LCP) of arbitrary labeled graphs.
+- [finite-automata-partition-refinement](https://github.com/regindex/Finite-Automata-Partition-Refinement) - Software that provides automata-sorting functionalities based on the partition refinement algorithm.
+- [DFA-suffix-doubling](https://github.com/regindex/DFA-suffix-doubling) - Software that computes the co-lexicographical ordering of DFA states using a suffix-doubling algorithm generalized to automata.
+- [Labeled-Graph-LCP](https://github.com/regindex/Labeled-Graph-LCP) - Software implementing a software for computing the Longest Common Prefix (LCP) of arbitrary labeled graphs.
 
 ---
 
 3 - Generation
 
-- [Wheeler-DFA-generation](https://github.com/regindex/Wheeler-DFA-generation) - Tool to sample random uniform Wheeler DFAs (WDFAs) with a given number of nodes, number of edges, and alphabet size.
-- [RegexpToAutomaton](https://github.com/regindex/RegexpToAutomaton) - Tool to compute an automaton out of a regular expression.
+- [Wheeler-DFA-generation](https://github.com/regindex/Wheeler-DFA-generation) - Software to sample random uniform Wheeler DFAs (WDFAs) with a given number of nodes, number of edges, and alphabet size.
+- [RegexpToAutomaton](https://github.com/regindex/RegexpToAutomaton) - Software to compute an automaton out of a regular expression.
 
 ---
 
 4 - Others
 
-- [DeterministicWidth](https://github.com/regindex/DeterministicWidth) - Tool implementing an algorithm to compute the deterministic co-lexicographical width of a regular language.
+- [DeterministicWidth](https://github.com/regindex/DeterministicWidth) - Software implementing an algorithm to compute the deterministic co-lexicographical width of a regular language.
