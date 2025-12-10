@@ -15,8 +15,17 @@ author_profile: true
     font-weight: 400 !important;
   }
 
+  .event-div-title {
+    width: 100%;
+    margin-bottom: 0.5em;
+  }
+
   .event-imp {
     margin-top: 1.5em !important;
+  }
+
+  .event-header {
+    margin: 0px 0px 0.25em 0px;
   }
 </style>
 
@@ -26,9 +35,9 @@ author_profile: true
   {% assign events = site.data.events | sort: "date" | reverse %}
   {% for e in events %}
   <div class="card-item">
-    <div style="width: 100%; margin-bottom: 1em;">
+    <div class="event-div-title">
       <div class="card-main" style="display: inline-block;">
-        <h3 style="margin: 0px 0px 0.25em 0px">{{ e.title }}</h3>
+        <h3 class="event-header">{{ e.title }}</h3>
       </div>
       <p class="event-date">{{ e.date }}</p>
     </div>
@@ -45,9 +54,9 @@ author_profile: true
   {% assign seminars = site.data.seminars | sort: "date" | reverse %}
   {% for s in seminars %}
   <div class="card-item">
-    <div style="width: 100%; margin-bottom: 1em;">
+    <div class="event-div-title">
       <div class="card-main" style="display: inline-block;">
-        <p style="margin: 0px">{{ s.title }}</p>
+        <h3 class="event-header">{{ s.title }}</h3>
       </div>
       <p class="event-date">{{ s.date }}</p>
     </div>
