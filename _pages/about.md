@@ -19,11 +19,10 @@ Main research areas include:
 - Randomized and graph algorithms
 - Algorithm engineering
 
-If you share our passion for algorithms and their implementation, get in touch with us!
+<!-- If you share our passion for algorithms and their implementation, get in touch with us! -->
 
-## Contact Us
-For general inquiries, collaborations, or information about our research, please contact us at:  
-[**raven-laboratory@unive.it**](mailto:raven-laboratory@unive.it)
+For general inquiries, collaborations, or information about our research, please contact us at
+[raven-laboratory@unive.it](mailto:raven-laboratory@unive.it).
 
 <p align="center">
   <img src="images/RAVEN-03-12-25.jpg" alt="RAVEN" style="border-radius: .5rem"/>
