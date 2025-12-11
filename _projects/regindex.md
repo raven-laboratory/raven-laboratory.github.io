@@ -58,6 +58,6 @@ The project finds important applications to the rapidly-expanding field of compu
 
 ---
 
-4 - Others
+4 - Other
 
 - [DeterministicWidth](https://github.com/regindex/DeterministicWidth) - Software implementing an algorithm to compute the deterministic co-lexicographical width of a regular language.

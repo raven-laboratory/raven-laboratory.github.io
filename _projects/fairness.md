@@ -12,6 +12,7 @@ collaborators:
     url: https://sites.google.com/view/cosimo-vinci
 ---
 
+## Description
 We consider classical computational problems that occur in the real world, e.g., problems related to the spreading of information in social networks. Instead of studying them from the traditional efficiency-focused perspective, we aim at algorithms that optimize fairness in this context. This is a research project at the intersection of combinatorial algorithms, probabilistic analysis, network theory, and stochastic optimization.
 
 {% if page.collaborators and page.collaborators.size > 0 %}

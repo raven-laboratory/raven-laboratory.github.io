@@ -4,6 +4,7 @@ excerpt: "We study compressed space algorithms and data structures to process an
 white-logo: "/images/indexes_string_logo.png"
 black-logo: "/images/indexes_string_logo.png"
 people_slugs:
+  - becker-ruben
   - cenzato-davide
   - prezza-nicola
 ---
@@ -21,6 +22,8 @@ Compressed text indexes take advantage of this redundancy by employing compressi
 - [STPD-index](https://github.com/regindex/STPD-index) - Software that implements a text index based on the *Suffix-Tree Path Decomposition* SA sampling scheme, supporting efficient locate-one and locate-all queries.
 - [suffixient-array](https://github.com/regindex/suffixient-array) - Software that implements a text index based on the *suffixient array* SA sampling scheme, supporting efficient locate-one and MEM finding queries.
 
+---
+
 2 - BWT-based indexing
 
 - [*r*-index](https://github.com/nicolaprezza/r-index) - Software that implements the *r*-index, a text index supporting count and locate queries in space proportional to the number of runs of the run-length compressed BWT.
@@ -33,5 +36,11 @@ Compressed text indexes take advantage of this redundancy by employing compressi
 - [PFP-eBWT](https://github.com/davidecenzato/PFP-eBWT.git) - Software that implements a variant of the Prefix-Free Parsing preprocessing (PFP) for computing the eBWT.
 - [optimalBWT](https://github.com/davidecenzato/optimalBWT.git) - Software to compute the optimal BWT of Bentley et al. minimizing the number of runs *r* of the resulting transform.
 - [cais](https://github.com/davidecenzato/cais) - Software that implements the conjugate array induced sorting algorithm for computing several BWT variants.
+
+---
+
+4 - Other
+
+- [DYNAMIC](https://github.com/xxsds/DYNAMIC) - A succinct and compressed fully-dynamic data structures library
 
 ---
