@@ -11,12 +11,42 @@ people_slugs:
 
 ## Description
 
-TODO
+Modern bioinformatics pipelines routinely manipulate billions of k-mers — substrings of fixed length k
+extracted from large genomic datasets such as pangenomes, metagenomic samples, and high-coverage sequencing reads.
+Storing and querying such massive k-mer sets efficiently is a pressing challenge:
+naïve data structures are too large, while overly compact representations often become too slow for practical use.
+This research project focuses on the design, analysis, and implementation of compressed indexes for k-mer sets,
+with the goal of achieving succinct space, high query speed, and scalability to very large collections.
+It brings together ideas from succinct data structures, (minimal and perfect) hashing, minimizer sampling theory,
+and algorithm engineering.
 
-- Compressed dictionaries
-- Compressed labels
-- Sampling schemes
-- Query algorithms
+The project consists of four related sub-projects.
+
+- **Compressed dictionaries.**
+This sub-project aims at designing space-efficient data structures for k-mer sets
+that can answer (at least) two fundamental queries efficiently: Lookup and Access.
+Such data structures are called "dictionaries". The k-mer dictionary developed and maintained
+by the RAVEN laboratory is *SSHash*, based on sparse and skew hashing.
+
+- **Compressed labels.**
+Many applications require mapping each k-mer to labels such as abundances, taxonomic IDs, genome IDs, etc.
+This sub-project investigates compression schemes to store and retrieve these label sets efficiently.
+It combines the k-mer dictionary SSHash with repetition-aware compression of labels into
+an index called *Fulgor*.
+
+- **Sampling schemes.**
+A sampling scheme is a rule that decides which positions in a DNA sequence should be selected
+as representatives. Instead of storing every k-mer independently, we sample only a small fraction
+and use them to partition the data.
+A good sampling scheme chooses these positions evenly and predictably, which helps compress
+indexes and speeds up queries.
+This sub-project studies the theory behind such schemes and their applicability to large-scale
+indexes like SSHash and Fulgor.
+
+- **Query algorithms.**
+This sub-project designs fast query algorithms for compressed dictionaries and label structures,
+ranging from basic Lookup and streaming queries in SSHash to the more advanced
+*pseudo-alignment* queries in Fulgor.
 
 ## Main Collaborations
 
