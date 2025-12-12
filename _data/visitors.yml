@@ -200,3 +200,10 @@
   position: Professor
   start: 2023-10-16
   end: 2023-10-27
+
+- name: Manuel Ariel
+  surname: Cáceres Reyes
+  affiliation: University of Helsinki
+  position: PhD student
+  start: 2022-11-28
+  end: 2022-12-09
