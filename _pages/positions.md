@@ -14,11 +14,11 @@ We are always looking for motivated students to join our research group. If you 
 We open positions for doctoral researchers on an annual basis. We are looking for candidates who are highly motivated and possess excellent algorithmic problem-solving skills.
 
 * **Timeline:** The application deadline for [Ca' Foscari University's PhD positions](https://www.unive.it/web/en/221/home) is usually in May of each year.
-* **How to Apply**: To initiate the process, please send us an email including your *CV*.
+* **How to Apply**: To initiate the process, please send us an [email](mailto:raven-laboratory@unive.it) including your *CV*.
 
 ### Bachelor and Master Theses
 We offer several thesis topics related to algorithms and other fields. 
 
-If you are interested in writing your thesis with us, please email us to discuss potential topics and details.
+If you are interested in writing your thesis with us, please [email us](mailto:raven-laboratory@unive.it) to discuss potential topics and details.
 
 > **Note:** High motivation and strong algorithmic skills are required for all applicants. For **bachelor's degree students**, good grades are a **strict departmental requirement**.
