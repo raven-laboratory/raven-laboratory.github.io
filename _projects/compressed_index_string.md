@@ -11,7 +11,7 @@ people_slugs:
 
 ## Description
 
-The ever-growing amount of repetitive data generated in bioinformatics sequencing projects has motivated an increasing interest in developing new indexing methods capable of addressing the computational challenges posed by large-scale data processing. Notably, an increase in data size does not always correspond to a proportional increase in the informational content. This is particularly evident in genomic data, where genomes from individuals of the same species are often almost identical and therefore highly compressible.
+The ever-growing amount of repetitive textual data generated in modern data-intensive domains, including bioinformatics sequencing projects and social network platforms has motivated an increasing interest in developing new indexing methods capable of addressing the computational challenges posed by large-scale data processing. Notably, an increase in data size does not always correspond to a proportional increase in the informational content. This is particularly evident in genomic data, where genomes from individuals of the same species are often almost identical and therefore highly compressible.
 
 Compressed text indexes take advantage of this redundancy by employing compression techniques that achieve space usage close to the dataset’s actual informational content while supporting efficient pattern-matching functionalities directly on the compressed data, without the need to decompress it.
 
