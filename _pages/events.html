@@ -22,10 +22,15 @@ author_profile: true
 
   .event-imp {
     margin-top: 1.5em !important;
+    margin-bottom: 1.2em !important;
   }
 
   .event-header {
-    margin: 0px 0px 0.25em 0px;
+    margin: 0px 0px 0.4em 0px;
+  }
+
+  .event-no-margin {
+    margin: 0 !important;
   }
 </style>
 
@@ -50,17 +55,16 @@ author_profile: true
 
 <h2 class="event-imp">Seminars</h2>
 
-<div class="card-list">
-  {% assign seminars = site.data.seminars | sort: "date" | reverse %}
-  {% for s in seminars %}
-  <div class="card-item">
-    <div class="event-div-title">
-      <div class="card-main" style="display: inline-block;">
-        <h3 class="event-header">{{ s.title }}</h3>
-      </div>
-      <p class="event-date">{{ s.date }}</p>
-    </div>
-    <div class="card-field">Speaker: {{ s.speaker }}</div>
+
+
+{% assign seminars = site.data.seminars | sort: "date" | reverse %}
+{% for s in seminars %}
+
+  <div>
+    <h3 class="event-header">Title: {{ s.title }}</h3>
+    <p class="event-no-margin">Speaker: {{ s.speaker }}</p>
+    <p class="event-no-margin">Date: {{ s.date }}</p>
+    <hr />
   </div>
-  {% endfor %}
-</div>
+
+{% endfor %}

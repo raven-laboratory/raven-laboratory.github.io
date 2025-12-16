@@ -1,3 +1,35 @@
 - title: Hybrid Compression Algorithms with Context-Free Grammars
   speaker: João Vitor Hartung Toppa
   date: 2025-12-16
+
+- title: AVL Trees
+  speaker: Ruben Becker
+  date: 2026-01-13
+
+- title: Online Computation of Normalized Substring Complexity
+  speaker: Davide Tonetto
+  date: 2026-01-20
+
+- title: On Optimally Partitioning a Text to Improve Its Compression
+  speaker: Davide Cologni
+  date: 2026-01-27
+
+- title: Van Emde Boas trees
+  speaker: Giulio Pibiri
+  date: 2026-02-03
+
+- title: x-fast / y-fast tries
+  speaker: Giulio Pibiri
+  date: 2026-02-10
+
+- title: Fusion Trees 
+  speaker: Nicola Prezza
+  date: 2026-02-17
+
+- title: z-fast tries, distance-sensitive predecessor queries
+  speaker: Nicola Prezza
+  date: 2026-02-24
+
+- title: An Introduction to Prefix-Free Parsing (PFP) Preprocessing
+  speaker: Davide Cenzato
+  date: 2026-03-03

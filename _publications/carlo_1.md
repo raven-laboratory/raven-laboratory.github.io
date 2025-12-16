@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/carlo_1
 authors: "Lorenzo Carfagna and Carlo Tosoni."
+preliminary: "Preliminary version published in SPIRE 2025."
 venue: "arXiv"
 date: 2025-01-01
 paperurl: "https://arxiv.org/abs/2512.11618"
