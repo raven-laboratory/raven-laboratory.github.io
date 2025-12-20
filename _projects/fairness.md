@@ -4,7 +4,7 @@ excerpt: "We study computational problems with a focus on fairness guarantees, p
 white-logo: "/images/alg_fairness.png"
 black-logo: "/images/alg_fairness.png"
 people_slugs:
-  - becker-ruben
+  - ruben-becker
 collaborators:
   - name: Gianlorenzo D’Angelo
     url: https://cs.gssi.it/gianlorenzo.dangelo/
@@ -33,22 +33,22 @@ We consider classical computational problems that occur in the real world, e.g.,
 
 ## Selected Publications
 
-- Ruben Becker, Bojana Kodric, Cosimo Vinci.  
-  **Greedily Maximizing Ex-Ante Fairness.**  
+- Ruben Becker, Bojana Kodric, Cosimo Vinci.
+  **Greedily Maximizing Ex-Ante Fairness.**
   40th AAAI Conference on Artificial Intelligence (AAAI 2026).
 
-- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi.  
+- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi.
   **[Improving Fairness in Information Exposure by Adding Links.](https://ojs.aaai.org/index.php/AAAI/article/view/26652)** \
   37th AAAI Conference on Artificial Intelligence (AAAI 2023).
 
-- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi.  
+- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi.
   **[On the Cost of Demographic Parity in Influence Maximization.](https://ojs.aaai.org/index.php/AAAI/article/view/26651)**  
   37th AAAI Conference on Artificial Intelligence (AAAI 2023).
 
-- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.  
+- Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.
   **[Fairness in Influence Maximization through Randomization.](https://www.google.com/search?client=safari&rls=en&q=Fairness+in+Influence+Maximization+through+Randomization.&ie=UTF-8&oe=UTF-8)**  
   Journal of Artificial Intelligence Research (JAIR), 2022.
 
-- Ruben Becker, Federico Coró, Gianlorenzo D’Angelo, Hugo Gilbert.  
-  **[Balancing Spreads of Influence in a Social Network.](https://ojs.aaai.org/index.php/AAAI/article/view/5327)**  
+- Ruben Becker, Federico Coró, Gianlorenzo D’Angelo, Hugo Gilbert.
+  **[Balancing Spreads of Influence in a Social Network.](https://ojs.aaai.org/index.php/AAAI/article/view/5327)**
   34th AAAI Conference on Artificial Intelligence (AAAI 2020).

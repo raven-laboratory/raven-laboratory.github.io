@@ -4,9 +4,9 @@ excerpt: "We study compressed space algorithms and data structures to process an
 white-logo: "/images/indexes_string_logo.png"
 black-logo: "/images/indexes_string_logo.png"
 people_slugs:
-  - becker-ruben
-  - cenzato-davide
-  - prezza-nicola
+  - ruben-becker
+  - davide-cenzato
+  - nicola-prezza
 ---
 
 ## Description

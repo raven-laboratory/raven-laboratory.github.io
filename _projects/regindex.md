@@ -4,14 +4,14 @@ excerpt: "Compressed Indexes for Regular Languages with Applications to Computat
 white-logo: "/images/regindex_logo.jpg"
 black-logo: "/images/regindex_logo.jpg"
 people_slugs:
-  - prezza-nicola
-  - campanelli-alessio
-  - puttini-daniel
-  - tosoni-carlo
-  - maso-riccardo
-  - cenzato-davide
-  - tonetto-davide
-  - becker-ruben
+  - nicola-prezza
+  - alessio-campanelli
+  - daniel-puttini
+  - carlo-tosoni
+  - riccardo-maso
+  - davide-cenzato
+  - davide-tonetto
+  - ruben-becker
 grants:
   - name: "European Research Council (ERC) grant agreement No. 101039208."
     url: "https://cordis.europa.eu/project/id/101039208"

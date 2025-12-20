@@ -4,9 +4,9 @@ excerpt: "We research compact and fast data structures to represent large sets o
 white-logo: "/images/sshash_logo.png"
 black-logo: "/images/sshash_logo.png"
 people_slugs:
-  - pibiri-giulio-ermanno
-  - campanelli-alessio
-  - cologni-davide
+  - giulio-ermanno-pibiri
+  - alessio-campanelli
+  - davide-cologni
 ---
 
 ## Description

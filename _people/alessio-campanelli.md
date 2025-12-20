@@ -1,7 +1,7 @@
 ---
 name: "Alessio"
 surname: "Campanelli"
-position: "PhD student"
+position: "PhD Student"
 description: ""
 picture: "https://www.unive.it/pag/fileadmin/user_upload/img/persone/28847327.jpg"
 ---

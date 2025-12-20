@@ -1,8 +1,8 @@
 ---
 name: "Ruben"
 surname: "Becker"
-position: "Assistant professor (RTT)"
-description: "Ruben holds a PhD degree from Saarland University (Germany). While being a doctoral student (2014-2018) he was a member of the Algorithms and Complexity department at Max Planck Institute for Informatics in Saarbrücken, Germany. He was then a Postdoctoral researcher in the Computer Science department of the Gran Sasso Science Institute in L'Aquila, Italy (2018-2022). He joined Ca' Foscari University of Venice in November 2022 as an assistant professor and since December 2025 he is tenure-track assistant professor (RTT). Ruben's research revolves around the topics algorithms, graphs, and randomness. His PhD thesis received the Dr. Eduard Martin Preis for the best dissertation within the Faculty of Computer Science and Mathematics at Saarland University in 2018. You can find more details on his [personal website](https://rbnbckr.github.io)."
+position: "Assistant Professor (RTT)"
+description: ""
 picture: "https://www.unive.it/pag/fileadmin/user_upload/img/persone/26646222.jpg"
 ---
 

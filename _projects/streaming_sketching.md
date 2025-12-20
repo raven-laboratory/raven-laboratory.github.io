@@ -4,10 +4,10 @@ excerpt: "We study streaming and sketching algorithms for processing large datas
 white-logo: "/images/streaming_logo.png"
 black-logo: "/images/streaming_logo.png"
 people_slugs:
-  - becker-ruben
-  - cenzato-davide
-  - prezza-nicola
-  - tosoni-carlo
+  - ruben-becker
+  - davide-cenzato
+  - nicola-prezza
+  - carlo-tosoni
 ---
 
 ## Description
