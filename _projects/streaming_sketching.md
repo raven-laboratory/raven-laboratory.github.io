@@ -19,6 +19,6 @@ In this project, we focus on adapting and applying these techniques to solve pra
 
 ## Software
 
-- [substring-complexity](https://github.com/regindex/substring-complexity) - Software that implements a streaming algorithm for computing a (1&#8239;±&#8239;ε)-approximation, with high probability, of the δ-distance between strings, using sublinear working space.
+- [substring-complexity](https://github.com/regindex/substring-complexity) - Software that implements a streaming algorithm for computing a (1&#8239;±&#8239;ε)-approximation, with high probability, of the string complexity measure δ (and corresponding string distance), using sublinear working space.
 
 
