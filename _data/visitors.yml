@@ -208,21 +208,21 @@
   start: 2022-11-28
   end: 2022-12-09
 
-  - name: Ragnar
+- name: Ragnar
   surname: Groot Koerkamp
   affiliation: ETH Zürich
   position: PhD
   start: 2026-02-16
   end: 2026-02-20
 
-  - name: B. Riva 
+- name: B. Riva 
   surname: Shalom
   affiliation: Shenkar College
   position: Researcher
   start: 2026-02-16
   end: 2026-02-16
   
-  - name: Victor
+- name: Victor
   surname: Levallois
   affiliation: University of Rennes
   position: PhD student
