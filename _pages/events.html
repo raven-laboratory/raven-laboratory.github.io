@@ -57,7 +57,7 @@ author_profile: true
 
 
 
-{% assign seminars = site.data.seminars | sort: "date" %}
+{% assign seminars = site.data.seminars | sort: "date" | reverse %}
 {% for s in seminars %}
 
   <div>
