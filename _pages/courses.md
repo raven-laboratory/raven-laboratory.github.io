@@ -17,6 +17,7 @@ Lecturer: Giulio Pibiri.
 48 hours, both for students of the Bachelor's and Master's degree in Computer Science.\
 Lecturer: Ruben Becker.
 
+*More information will be available soon.*
 
 
 ## Current Academic Year (2025/2026)
