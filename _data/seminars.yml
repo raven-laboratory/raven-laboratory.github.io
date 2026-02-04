@@ -14,12 +14,12 @@
   speaker: Davide Cologni
   date: 2026-01-27
 
-- title: Van Emde Boas trees
-  speaker: Giulio Pibiri
+- title: van Emde Boas trees
+  speaker: Giulio Ermanno Pibiri
   date: 2026-02-03
 
 - title: x-fast / y-fast tries
-  speaker: Giulio Pibiri
+  speaker: Giulio Ermanno Pibiri
   date: 2026-02-10
 
 - title: Longest Common Subsequence in k-length substrings for Run-Length Encoded strings
