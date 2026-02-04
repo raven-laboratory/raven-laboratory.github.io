@@ -17,6 +17,8 @@
 - title: van Emde Boas trees
   speaker: Giulio Ermanno Pibiri
   date: 2026-02-03
+  slides: https://jermp.github.io/assets/pdf/slides/vEB-slides.pdf
+  notes:
 
 - title: x-fast / y-fast tries
   speaker: Giulio Ermanno Pibiri

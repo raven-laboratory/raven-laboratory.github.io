@@ -53,9 +53,9 @@ author_profile: true
   {% endfor %}
 </div>
 
+
+
 <h2 class="event-imp">Seminars</h2>
-
-
 
 {% assign seminars = site.data.seminars | sort: "date" | reverse %}
 {% for s in seminars %}
@@ -64,6 +64,12 @@ author_profile: true
     <h3 class="event-header">{{ s.title }}</h3>
     <p class="event-no-margin">Speaker: {{ s.speaker }}</p>
     <p class="event-no-margin">Date: {{ s.date }}</p>
+    {% if s.slides %}
+      <p class="event-no-margin">Material: <a href="{{ s.slides }}">slides</a> </p>
+    {% endif %}
+    {% if s.notes %}
+      <p class="event-no-margin">Material: <a href="{{ s.notes }}">notes</a> </p>
+    {% endif %}
     <hr />
   </div>
 
