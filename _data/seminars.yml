@@ -23,6 +23,8 @@
 - title: x-fast / y-fast tries
   speaker: Giulio Ermanno Pibiri
   date: 2026-02-10
+  slides: https://jermp.github.io/assets/pdf/slides/x-y-fast-tries.pdf
+  notes:
 
 - title: Longest Common Subsequence in k-length substrings for Run-Length Encoded strings
   speaker: B. Riva Shalom

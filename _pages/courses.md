@@ -7,11 +7,11 @@ author_profile: true
 
 The members of the RAVEN group teach several courses at Ca' Foscari University of Venice on topics related to algorithms. 
 
-*NEWS: From academic year 2026/2027, two new courses will be offered by our group:*
+*NEWS: From academic year 2026/2027, **two new courses** will be offered by our group:*
 
 - *Algorithms for Modern Hardware.*\
 48 hours, both for students of the Bachelor's and Master's degree in Computer Science.\
-Lecturer: Giulio Pibiri.
+Lecturer: Giulio Ermanno Pibiri.
 
 - *Algorithmic Techniques for AI, Games and Networks.*\
 48 hours, both for students of the Bachelor's and Master's degree in Computer Science.\
