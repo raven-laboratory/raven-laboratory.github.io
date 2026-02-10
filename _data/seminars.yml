@@ -38,6 +38,6 @@
   speaker: Nicola Prezza
   date: 2026-02-24
 
-- title: An Introduction to Prefix-Free Parsing (PFP) Preprocessing
+- title: Elias-Fano encoding, storing and querying sorted integer sequences efficiently
   speaker: Davide Cenzato
   date: 2026-03-03
