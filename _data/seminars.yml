@@ -38,6 +38,10 @@
   speaker: Nicola Prezza
   date: 2026-02-24
 
+- title: Generalized De Bruijn Words, Invertible Necklaces, and the Burrows-Wheeler Transform
+  speaker: Gabriele Fici, University of Palermo
+  date: 2026-02-25
+
 - title: Elias-Fano encoding, storing and querying sorted integer sequences efficiently
   speaker: Davide Cenzato
   date: 2026-03-03
