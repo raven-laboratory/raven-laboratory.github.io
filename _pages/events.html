@@ -32,6 +32,40 @@ author_profile: true
   .event-no-margin {
     margin: 0 !important;
   }
+
+  details summary {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 1rem;
+
+    &::marker,
+    &::-webkit-details-marker {
+        display: none;
+    }
+  }
+  details summary::after {
+      --shape-chevron-width: 0.9rem;
+      --s: calc(var(--shape-chevron-width) / 4);
+
+      content: "";
+      aspect-ratio: 7/5;
+      background: currentColor;
+      clip-path: polygon(0 0, 0 var(--s), 50% 100%, 100% var(--s), 100% 0, 50% calc(100% - var(--s)));
+      flex-shrink: 0;
+      width: var(--shape-chevron-width);
+  }
+
+details {
+    summary::after {
+        rotate: 0deg;
+        transition: rotate 0.35s ease;
+    }
+
+    &[open] summary::after {
+        rotate: -180deg;
+    }
+}
 </style>
 
 <h2 class="event-imp">Conferences and workshops</h2>
@@ -44,7 +78,7 @@ author_profile: true
       <div class="card-main" style="display: inline-block;">
         <h3 class="event-header">{{ e.title }}</h3>
       </div>
-      <p class="event-date">{{ e.date }}</p>
+      <p class="event-date">{{ e.date | date: "%d/%m/%Y" }}</p>
     </div>
     <div class="card-field">{{ e.description }}
       <a href="{{ e.url }}">{{ e.url-text }}</a>.
@@ -56,21 +90,35 @@ author_profile: true
 
 
 <h2 class="event-imp">Seminars</h2>
+<h3>Planned</h3>
 
+{% assign has_upcoming_event = false %}
 {% assign seminars = site.data.seminars | sort: "date" | reverse %}
+{% assign current_date = "now" | date: "%Y-%m-%d" | date: "%s" %}
+
 {% for s in seminars %}
+  {% assign event_date = s.date | date: "%s" %}
 
-  <div>
-    <h3 class="event-header">{{ s.title }}</h3>
-    <p class="event-no-margin">Speaker: {{ s.speaker }}</p>
-    <p class="event-no-margin">Date: {{ s.date }}</p>
-    {% if s.slides %}
-      <p class="event-no-margin">Material: <a href="{{ s.slides }}">slides</a> </p>
-    {% endif %}
-    {% if s.notes %}
-      <p class="event-no-margin">Material: <a href="{{ s.notes }}">notes</a> </p>
-    {% endif %}
-    <hr />
-  </div>
-
+  {% if event_date >= current_date %}
+    {% assign has_upcoming_event = true %}
+    {% include seminar.html %}
+  {% endif %}
 {% endfor %}
+
+{% if has_upcoming_event == false %}
+<i> No seminars planned {{current_date}} </i> 
+{% endif %}
+
+
+<details style="margin-top: 1.5rem;">
+  <summary style="font-weight: bold;">Past</summary>
+
+  {% for s in seminars %}
+    {% assign event_date = s.date | date: "%s" %}
+
+    {% if event_date < current_date %}
+      {% include seminar.html %}
+    {% endif %}
+  {% endfor %}
+
+</details>

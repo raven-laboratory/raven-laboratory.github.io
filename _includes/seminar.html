@@ -1,0 +1,16 @@
+<div class="card-item" style="margin-bottom: 0.5rem;">
+  <div class="event-div-title" style="margin-bottom: 0;">
+    <div class="card-main" style="display: inline-block;">
+      <h4 class="event-header">{{ s.title }}</h4>
+    </div>
+    <p class="event-date">{{ s.date | date: "%d/%m/%Y" }}</p>
+  </div>
+  <div class="card-field" style="font-size: 0.8rem; margin-top: 0">{{ s.speaker }}
+    {% if s.slides %}
+    <p class="event-no-margin">Material: <a href="{{ s.slides }}">slides</a> </p>
+  {% endif %}
+  {% if s.notes %}
+    <p class="event-no-margin">Material: <a href="{{ s.notes }}">notes</a> </p>
+  {% endif %}
+  </div>
+</div>
