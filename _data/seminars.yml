@@ -45,3 +45,7 @@
 - title: Elias-Fano encoding, storing and querying sorted integer sequences efficiently
   speaker: Davide Cenzato
   date: 2026-03-03
+
+- title: Compressing runny permutations using the Move data structure
+  speaker: Davide Cenzato
+  date: 2026-03-10
