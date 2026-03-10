@@ -87,14 +87,13 @@ details {
   {% endfor %}
 </div>
 
-
-
 <h2 class="event-imp">Seminars</h2>
 <h3>Planned</h3>
 
 {% assign has_upcoming_event = false %}
 {% assign seminars = site.data.seminars | sort: "date" | reverse %}
-{% assign current_date = "now" | date: "%Y-%m-%d" | date: "%s" %}
+{% assign current_date = "now" | date: "%s" %}
+{% assign current_year = "now" | date: "%Y" %}
 
 {% for s in seminars %}
   {% assign event_date = s.date | date: "%s" %}
@@ -106,17 +105,29 @@ details {
 {% endfor %}
 
 {% if has_upcoming_event == false %}
-<i> No seminars planned {{current_date}} </i> 
+<i> No seminars planned </i> 
 {% endif %}
 
 
+<h3 style="margin-top: 1.5rem;">Past in {{ current_year }}</h3>
+
+{% for s in seminars %}
+  {% assign event_date = s.date | date: "%s" %}
+  {% assign event_year = s.date | date: "%Y" %}
+
+  {% if event_date < current_date and event_year == current_year %}
+    {% include seminar.html %}
+  {% endif %}
+{% endfor %}
+
+
 <details style="margin-top: 1.5rem;">
-  <summary style="font-weight: bold;">Past</summary>
+  <summary style="font-weight: bold;">Previous Years</summary>
 
   {% for s in seminars %}
-    {% assign event_date = s.date | date: "%s" %}
+    {% assign event_year = s.date | date: "%Y" %}
 
-    {% if event_date < current_date %}
+    {% if event_year < current_year %}
       {% include seminar.html %}
     {% endif %}
   {% endfor %}
