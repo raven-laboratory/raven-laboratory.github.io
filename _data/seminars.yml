@@ -27,7 +27,7 @@
   notes:
 
 - title: Longest Common Subsequence in k-length substrings for Run-Length Encoded strings
-  speaker: B. Riva Shalom
+  speaker: B. Riva Shalom (Shenkar College)
   date: 2026-02-16
 
 - title: Fusion Trees part 1
@@ -49,3 +49,11 @@
 - title: Compressing runny permutations using the Move data structure
   speaker: Davide Cenzato
   date: 2026-03-10
+
+- title: Packed Memory Arrays
+  speaker: Alessio Campanelli
+  date: 2026-03-17
+
+- title: The string B-Tree
+  speaker: Riccardo Maso
+  date: 2026-03-24
