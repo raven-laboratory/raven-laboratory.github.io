@@ -63,14 +63,13 @@ based on sparse and skew hashing.
 
 ## Publications
 
-- **[Sparse and Skew Hashing of k-mers](https://doi.org/10.1093/bioinformatics/btac245)**
-  _Bioinformatics_, 2022.
+- **[Sparse and Skew Hashing of k-mers](https://doi.org/10.1093/bioinformatics/btac245)**, _International Conference on Intelligent Systems for Molecular Biology (ISMB)_, 2022.
 
-- **[On Weighted k-mer Dictionaries](https://almob.biomedcentral.com/articles/10.1186/s13015-023-00226-2)**
+- **[On Weighted k-mer Dictionaries](https://almob.biomedcentral.com/articles/10.1186/s13015-023-00226-2)**,
   _Algorithms for Molecular Biology_, 2023.
 
-- **[Locality-Preserving Minimal Perfect Hashing of k-mers](https://doi.org/10.1093/bioinformatics/btad219)**
-  _Bioinformatics_, 2023.
+- **[Locality-Preserving Minimal Perfect Hashing of k-mers](https://doi.org/10.1093/bioinformatics/btad219)**,
+  _International Conference on Intelligent Systems for Molecular Biology (ISMB)_, 2023.
 
 - **[Spectrum preserving tilings enable sparse and modular reference indexing](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_2)**
   _International Conference on Research in Computational Molecular Biology (RECOMB)_, 2023.
@@ -95,3 +94,8 @@ based on sparse and skew hashing.
 
 - **[The open-closed mod-minimizer algorithm](https://link.springer.com/article/10.1186/s13015-025-00270-0)**
   _Algorithms for Molecular Biology_, 2025.
+
+- **[Optimizing sparse and skew hashing: faster k-mer dictionaries]()**
+  _International Conference on Intelligent Systems for Molecular Biology (ISMB)_, 2026.
+  
+  
