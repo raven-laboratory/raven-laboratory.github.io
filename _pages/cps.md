@@ -15,8 +15,6 @@ This group is designed for students who want to improve their theoretical and pr
 - **Collaborative Problem Solving:** You will develop the skills to address complex problems in a group, learning to effectively brainstorm and communicate technical ideas with your peers.
 - **Career & Competition Readiness:** Our sessions provide the perfect training ground for technical job interviews at top-tier tech companies (like Google or Meta) and prepare teams for prestigious international contests such as **ITACPC**, **SWERC**, and **ICPC**.
 
----
-
 ## How We Work
 
 We meet every **Thursday from 15:45 to 17:15**. Our sessions are designed to be hands-on and interactive:
@@ -30,9 +28,9 @@ After a batch of lectures on related topics, we will hold a friendly coding comp
 
 _This archive is updated weekly with the topics covered and relevant resources._
 
-| Date            | Room     | Topic | Materials         | Lecturer |
-| :-------------- | :------- | :---- | :---------------- | :------- |
-| **May 7, 2026** | Delta 1B | _TBD_ | After the lecture | _TBD_    |
-| May 14, 2026    | _TBD_    | _TBD_ | After the lecture | _TBD_    |
-| May 21, 2026    | _TBD_    | _TBD_ | After the lecture | _TBD_    |
-| May 28, 2026    | _TBD_    | _TBD_ | After the lecture | _TBD_    |
+| Date            | Room     | Topic | Materials         | Lecturer           |
+| :-------------- | :------- | :---- | :---------------- | :----------------- |
+| **May 7, 2026** | Delta 1B | _TBD_ | After the lecture | Alessio Campanelli |
+| May 14, 2026    | _TBD_    | _TBD_ | After the lecture | Ruben Becker       |
+| May 21, 2026    | _TBD_    | _TBD_ | After the lecture | Davide Cologni     |
+| May 28, 2026    | _TBD_    | _TBD_ | After the lecture | Riccardo Maso      |
