@@ -368,3 +368,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+greedy_navigation:
+  # Controls whether all the navbar's elements must be hidden when the navbar overflows
+  collapse_all: true
