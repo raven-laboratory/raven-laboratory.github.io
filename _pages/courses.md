@@ -32,6 +32,11 @@ Lecturer: Nicola Prezza, [more details](https://www.unive.it/data/insegnamento/5
 48 hours in the Bachelor's degree in Computer Science.\
 Lecturer: Ruben Becker, [more details](https://www.unive.it/data/course/608557).
 
+### Course Outside Curriculum
+- *Collaborative Program Solving and Competitive Programming*\
+Weekly meetings organized by the RAVEN group. All students welcome!\
+[More details](https://raven-laboratory.github.io/cpscp/).
+
 
 ## Past Academic Years
 
