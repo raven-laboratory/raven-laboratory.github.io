@@ -28,9 +28,13 @@ After a batch of lectures on related topics, we will hold a friendly coding comp
 
 _This archive is updated weekly with the topics covered and relevant resources._
 
-| Date         | Room       | Topic                     | Materials                                                                                                                        | Lecturer           |
-| :----------- | :--------- | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
-| May 7, 2026  | 1B (Delta) | Linked data structures    | <a href="../files/cpscp/cpscp0-intro.pdf" download>Introduction</a>, <a href="../files/cpscp/cpscp1-LDS.pdf" download>Slides</a> | Alessio Campanelli |
-| May 14, 2026 | B (Zeta)   | Heaps and priority queues | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a>                                                                    | Ruben Becker       |
-| May 21, 2026 | B (Zeta)   | Union-Find data structure | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a>                                                                       | Davide Cologni     |
-| May 28, 2026 | B (Zeta)   | Programming contest       | After the lecture                                                                                                                | Riccardo Maso      |
+| Date         | Room       | Topic                                   | Materials                                                                                                                        | Lecturer           |
+| :----------- | :--------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
+| May 7, 2026  | 1B (Delta) | Linked data structures                  | <a href="../files/cpscp/cpscp0-intro.pdf" download>Introduction</a>, <a href="../files/cpscp/cpscp1-LDS.pdf" download>Slides</a> | Alessio Campanelli |
+| May 14, 2026 | B (Zeta)   | Heaps and priority queues               | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a>                                                                    | Ruben Becker       |
+| May 21, 2026 | B (Zeta)   | Union-Find data structure               | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a>                                                                       | Davide Cologni     |
+| May 28, 2026 | B (Zeta)   | Programming contest                     | After the lecture                                                                                                                | Riccardo Maso      |
+| Jun 4, 2026  | _TBD_      | balanced BSTs and Order Statistic Trees | After the lecture                                                                                                                | Rube Becker        |
+| Jun 11, 2026 | _TBD_      | Fenwick trees                           | After the lecture                                                                                                                | Davide Cologni     |
+| Jun 25, 2026 | _TBD_      | Graphs                                  | After the lecture                                                                                                                | Riccardo Maso      |
+| Jul 2, 2026  | _TBD_      | Programming contest                     | After the lecture                                                                                                                | Alessio Campanelli |
