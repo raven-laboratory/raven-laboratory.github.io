@@ -29,6 +29,10 @@ _More information will be available soon._
 
 ### Bachelor Courses
 
+- _Algorithms and Data Structures._\
+  48 hours in the Bachelor's degree in Computer Science.\
+  Lecturer: Ruben Becker, [more details](https://www.unive.it/data/course/608557).
+
 ### Course Outside Curriculum
 
 - _Collaborative Program Solving and Competitive Programming_\
