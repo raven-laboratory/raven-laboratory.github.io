@@ -6,17 +6,6 @@ permalink: /cpscp/
 
 This is the official page for the **Cooperative Problem Solving and Competitive Programming** student group at Ca' Foscari University of Venice.
 
-## What is the Purpose of the Group?
-
-This group is designed for students who want to improve their theoretical and practical algorithmic knowledge. Our activities focus on:
-
-- **Deepening Algorithmic Knowledge:** We go beyond standard coursework to explore advanced data structures and state-of-the-art algorithms. You will learn not just how to use these tools, but how to adapt them to unique and challenging scenarios.
-- **Complex Problem Reasoning:** We focus on developing the skills required to tackle high-complexity problems.
-- **Collaborative Problem Solving:** You will develop the skills to address complex problems in a group, learning to effectively brainstorm and communicate technical ideas with your peers.
-- **Career & Competition Readiness:** Our sessions provide the perfect training ground for technical job interviews at top-tier tech companies (like Google or Meta) and prepare teams for prestigious international contests such as **ITACPC**, **SWERC**, and **ICPC**.
-
-## How We Work
-
 We meet every **Thursday from 15:45 to 17:15**. Our sessions are designed to be hands-on and interactive:
 
 1.  **The Kick-off (30 mins):** A lightning talk by a RAVEN researcher on a specific algorithmic topic or technique.
@@ -34,7 +23,18 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | May 14, 2026 | B (Zeta)   | Heaps and Priority Queues               | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a>                                                                    | Ruben Becker       |
 | May 21, 2026 | B (Zeta)   | Union-Find Data Structure               | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a>                                                                       | Davide Cologni     |
 | May 28, 2026 | B (Zeta)   | Programming Contest                     | After the lecture                                                                                                                | Riccardo Maso      |
-| Jun 4, 2026  | B (Zeta)   | Complete Search                         | After the lecture                                                                                                                | Ruben Becker        |
+| Jun 4, 2026  | B (Zeta)   | Complete Search                         | <a href="../files/cpscp/complete_search.pdf" download>Slides</a>                                                                                                                | Ruben Becker        |
 | Jun 11, 2026 | C (Zeta)   | Divide & Conquer                           | After the lecture                                                                                                                | Davide Cologni     |
 | Jun 25, 2026 | Acadia (Zeta)  | Greedy                                  | After the lecture                                                                                                                | Riccardo Maso      |
 | Jul 2, 2026  | Acadia (Zeta)  | Programming Contest                     | After the lecture                                                                                                                | Alessi Campanelli |
+
+## What is the Purpose of this Group?
+
+This group is designed for students who want to improve their theoretical and practical algorithmic knowledge. Our activities focus on:
+
+- **Deepening Algorithmic Knowledge:** We go beyond standard coursework to explore advanced data structures and state-of-the-art algorithms. You will learn not just how to use these tools, but how to adapt them to unique and challenging scenarios.
+- **Complex Problem Reasoning:** We focus on developing the skills required to tackle high-complexity problems.
+- **Collaborative Problem Solving:** You will develop the skills to address complex problems in a group, learning to effectively brainstorm and communicate technical ideas with your peers.
+- **Career & Competition Readiness:** Our sessions provide the perfect training ground for technical job interviews at top-tier tech companies (like Google or Meta) and prepare teams for prestigious international contests such as **ITACPC**, **SWERC**, and **ICPC**.
+
+
