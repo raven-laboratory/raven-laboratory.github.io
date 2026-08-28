@@ -31,10 +31,10 @@ _This archive is updated weekly with the topics covered and relevant resources._
 ### Winter Semester 2026
 | Date          | Room        | Topic                                   | Materials                                        | Lecturer           |
 | :------------ | :---------- | :-------------------------------------- | :----------------------------------------------- | :----------------- |
-| Sep 8, 2026   |            | Dynamic Programming                     |                                                  |                    |
-| Sep 15, 2026  |            | Graphs Visits                           |                                                  |                    |
-| Sep 22, 2026  |            | Minimum Spanning Trees                  |                                                  |                    |
-| Sep 29, 2026  |            | Programming Contest                     |                                                  |                    |
+| Sep 8, 2026   |             | Dynamic Programming                     |                                                  |                    |
+| Sep 15, 2026  |             | Graphs Visits                           |                                                  |                    |
+| Sep 22, 2026  |             | Minimum Spanning Trees                  |                                                  |                    |
+| Sep 29, 2026  |             | Programming Contest                     |                                                  |                    |
 
 
 ### Summer Semester 2026
