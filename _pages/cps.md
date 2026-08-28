@@ -29,6 +29,7 @@ With our meetings we prepare teams to participate in international contests such
 _This archive is updated weekly with the topics covered and relevant resources._
 
 ### Winter Semester 2026
+
 | Date | Room | Topic | Materials | Lecturer |
 | :--- | :--- | :---- | :-------- | :------- |
 | Sep 8, 2026 | | Dynamic Programming | | |
@@ -36,18 +37,17 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | Sep 22, 2026 | | Minimum Spanning Trees | | |
 | Sep 29, 2026 | | Programming Contest | | |
 
-
 ### Summer Semester 2026
+
 | Date | Room | Topic | Materials | Lecturer |
 | :--- | :--- | :---- | :-------- | :------- |
-| May 7, 2026 | 1B (Delta) | Linked Data Structures | <a href="../files/cpscp/cpscp0-intro.pdf" download>Introduction</a>, <a href="../files/cpscp/cpscp1-LDS.pdf" download>Slides</a> | Alessio Campanelli |
-| May 14, 2026 | B (Zeta) | Heaps and Priority Queues | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a> | Ruben Becker |
-| May 21, 2026 | B (Zeta) | Union-Find Data Structure | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a> | Davide Cologni |
+| May 7, 2026 | 1B (Delta) | Linked Data Structures | [Introduction](../files/cpscp/cpscp0-intro.pdf), [Slides](../files/cpscp/cpscp1-LDS.pdf) | Alessio Campanelli |
+| May 14, 2026 | B (Zeta) | Heaps and Priority Queues | [Slides](../files/cpscp/cpscp2-heaps.pdf) | Ruben Becker |
+| May 21, 2026 | B (Zeta) | Union-Find Data Structure | [Slides](../files/cpscp/cpscp3-UF.pdf) | Davide Cologni |
 | May 28, 2026 | B (Zeta) | Programming Contest | | Riccardo Maso |
-| Jun 4, 2026 | B (Zeta) | Complete Search | <a href="../files/cpscp/complete_search.pdf" download>Slides</a> | Ruben Becker |
+| Jun 4, 2026 | B (Zeta) | Complete Search | [Slides](../files/cpscp/complete_search.pdf) | Ruben Becker |
 | Jun 11, 2026 | C (Zeta) | Divide & Conquer | After the lecture | Davide Cologni |
 | Jun 25, 2026 | Acadia (Zeta) | Greedy | After the lecture | Riccardo Maso |
 | Jul 2, 2026 | Acadia (Zeta) | Programming Contest | | Alessio Campanelli |
-
 
 
