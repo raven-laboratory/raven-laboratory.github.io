@@ -4,37 +4,53 @@ title: Cooperative Problem Solving & Competitive Programming
 permalink: /cpscp/
 ---
 
-This is the official page for the **Cooperative Problem Solving and Competitive Programming** student group at Ca' Foscari University of Venice.
+This is the official page for the **Cooperative Problem Solving and Competitive Programming** group at Ca' Foscari University of Venice.
 
-We meet every **Thursday from 15:45 to 17:15**. Our sessions are designed to be hands-on and interactive:
+### Meeting Style
 
-1.  **The Kick-off (30 mins):** A lightning talk by a RAVEN researcher on a specific algorithmic topic or technique.
-2.  **The Lab (60 mins):** You will work in small groups to solve a set of curated problems.
+We meet weekly. Our meetings are hands-on and interactive. Typically, they have the following structure:
 
-After a batch of lectures on related topics, we will hold a friendly coding competition during the lecture hours.
+1.  **Kick-off (30 mins):** A brief introductory talk by a RAVEN researcher on an algorithmic topic or technique.
+2.  **Lab (60 mins):** Students work in small groups to solve a set of problems in the scope of the introduced topic.
 
-## Lecture Archive & Materials
+After a batch of lectures (typically 3 or 4) with this structure, we hold friendly coding competitions.
 
+### What is the Purpose of this Group?
+
+The group is meant for students who want to improve their theoretical and practical algorithmic knowledge. Our activities focus on the following:
+
+- **Complex Problem Solving:** We focus on developing the skills required to tackle complex computational problems, usually by applying the most common algorithm design principles.
+- **Collaborative Work:** We practice addressing complex problems in a group by effective collaboration.
+- **Deepening Algorithmic Knowledge:** We go beyond the material of standard algorithms courses.
+
+With our meetings we prepare teams to participate in international contests such as **ITACPC**, **SWERC**, and **ICPC**. Besides this, our meetings alo provide the perfect preparation for technical job interviews at top-tier tech companies (like Google or Meta).
+
+## Archive & Materials 
 _This archive is updated weekly with the topics covered and relevant resources._
 
-| Date         | Room       | Topic                                   | Materials                                                                                                                        | Lecturer           |
-| :----------- | :--------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
-| May 7, 2026  | 1B (Delta) | Linked Data Structures                  | <a href="../files/cpscp/cpscp0-intro.pdf" download>Introduction</a>, <a href="../files/cpscp/cpscp1-LDS.pdf" download>Slides</a> | Alessio Campanelli |
-| May 14, 2026 | B (Zeta)   | Heaps and Priority Queues               | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a>                                                                    | Ruben Becker       |
-| May 21, 2026 | B (Zeta)   | Union-Find Data Structure               | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a>                                                                       | Davide Cologni     |
-| May 28, 2026 | B (Zeta)   | Programming Contest                     | After the lecture                                                                                                                | Riccardo Maso      |
-| Jun 4, 2026  | B (Zeta)   | Complete Search                         | <a href="../files/cpscp/complete_search.pdf" download>Slides</a>                                                                                                                | Ruben Becker        |
-| Jun 11, 2026 | C (Zeta)   | Divide & Conquer                           | After the lecture                                                                                                                | Davide Cologni     |
+### Winter Semester 2026
+| Date         | Room        | Topic                                   | Materials                                        | Lecturer           |
+| :----------- | :---------- | :-------------------------------------- | :----------------------------------------------- | :----------------- |
+| Sep 8, 2026   |            | Dynamic Programming                     |                                                  |                    |
+| Sep 15, 2026  |            | Graphs Visits                           |                                                  |                    |
+| Sep 22, 2026  |            | Minimum Spanning Trees                  |                                                  |                    |
+| Sep 29, 2026  |            | Programming Contest                     |                                                  |                    |
+
+
+### Summer Semester 2026
+| Date         | Room           | Topic                                   | Materials                                                                                                                        | Lecturer           |
+| :----------- | :------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
+| May 7, 2026  | 1B (Delta)     | Linked Data Structures                  | <a href="../files/cpscp/cpscp0-intro.pdf" download>Introduction</a>, <a href="../files/cpscp/cpscp1-LDS.pdf" download>Slides</a> | Alessio Campanelli |
+| May 14, 2026 | B (Zeta)       | Heaps and Priority Queues               | <a href="../files/cpscp/cpscp2-heaps.pdf" download>Slides</a>                                                                    | Ruben Becker       |
+| May 21, 2026 | B (Zeta)       | Union-Find Data Structure               | <a href="../files/cpscp/cpscp3-UF.pdf" download>Slides</a>                                                                       | Davide Cologni     |
+| May 28, 2026 | B (Zeta)       | Programming Contest                     |                                                                                                                                  | Riccardo Maso      |
+| Jun 4, 2026  | B (Zeta)       | Complete Search                         | <a href="../files/cpscp/complete_search.pdf" download>Slides</a>                                                                 | Ruben Becker       |
+| Jun 11, 2026 | C (Zeta)       | Divide & Conquer                        | After the lecture                                                                                                                | Davide Cologni     |
 | Jun 25, 2026 | Acadia (Zeta)  | Greedy                                  | After the lecture                                                                                                                | Riccardo Maso      |
-| Jul 2, 2026  | Acadia (Zeta)  | Programming Contest                     | After the lecture                                                                                                                | Alessi Campanelli |
+| Jul 2, 2026  | Acadia (Zeta)  | Programming Contest                     |                                                                                                                                  | Alessio Campanelli |
 
-## What is the Purpose of this Group?
 
-This group is designed for students who want to improve their theoretical and practical algorithmic knowledge. Our activities focus on:
 
-- **Deepening Algorithmic Knowledge:** We go beyond standard coursework to explore advanced data structures and state-of-the-art algorithms. You will learn not just how to use these tools, but how to adapt them to unique and challenging scenarios.
-- **Complex Problem Reasoning:** We focus on developing the skills required to tackle high-complexity problems.
-- **Collaborative Problem Solving:** You will develop the skills to address complex problems in a group, learning to effectively brainstorm and communicate technical ideas with your peers.
-- **Career & Competition Readiness:** Our sessions provide the perfect training ground for technical job interviews at top-tier tech companies (like Google or Meta) and prepare teams for prestigious international contests such as **ITACPC**, **SWERC**, and **ICPC**.
+
 
 
