@@ -33,7 +33,7 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | Date | Room | Topic | Materials | Lecturer |
 | :--- | :--- | :---- | :-------- | :------- |
 | Sep 17, 2026 | | Dynamic Programming | | |
-| Sep 24, 2026 | | Graphs Visits | | |
+| Sep 24, 2026 | | Graph Visits | | |
 | Oct 1, 2026 | | Minimum Spanning Trees | | |
 | Oct 8, 2026 | | Programming Contest | | |
 
