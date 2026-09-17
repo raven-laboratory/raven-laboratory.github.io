@@ -47,7 +47,7 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | May 28, 2026 | B (Zeta) | Programming Contest | | Riccardo Maso |
 | Jun 4, 2026 | B (Zeta) | Complete Search | [Slides](../files/cpscp/complete_search.pdf) | Ruben Becker |
 | Jun 11, 2026 | C (Zeta) | Divide & Conquer | After the lecture | Davide Cologni |
-| Jun 25, 2026 | Acadia (Zeta) | Greedy | After the lecture | Riccardo Maso |
+| Jun 25, 2026 | Acadia (Zeta) | Greedy | [Slides](../files/cpscp/cpscp6-greedy.pdf) | Riccardo Maso |
 | Jul 2, 2026 | Acadia (Zeta) | Programming Contest | | Alessio Campanelli |
 
 
