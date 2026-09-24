@@ -41,7 +41,8 @@ _This archive is updated weekly with the topics covered and relevant resources._
 
 | Date | Room | Topic | Materials | Lecturer |
 | :--- | :--- | :---- | :-------- | :------- |
-| May 7, 2026 | 1B (Delta) | Linked Data Structures | [Introduction](../files/cpscp/cpscp0-intro.pdf), [Slides](../files/cpscp/cpscp1-LDS.pdf) | Alessio Campanelli |
+| May 7, 2026 | 1B (Delta) | Introduction | [Introduction](../files/cpscp/cpscp0-intro.pdf) | Ruben Becker |
+| | | Linked Data Structures | [Slides](../files/cpscp/cpscp1-LDS.pdf) | Alessio Campanelli |
 | May 14, 2026 | B (Zeta) | Heaps and Priority Queues | [Slides](../files/cpscp/cpscp2-heaps.pdf) | Ruben Becker |
 | May 21, 2026 | B (Zeta) | Union-Find Data Structure | [Slides](../files/cpscp/cpscp3-UF.pdf) | Davide Cologni |
 | May 28, 2026 | B (Zeta) | Programming Contest | | Riccardo Maso |
