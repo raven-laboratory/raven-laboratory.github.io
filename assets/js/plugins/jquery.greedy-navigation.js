@@ -110,4 +110,5 @@ $btn.on('click', function () {
   $(this).toggleClass('close');
 });
 
+$btn.addClass("hidden");
 updateNav();
