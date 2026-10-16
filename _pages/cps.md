@@ -34,8 +34,8 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | :--- | :--- | :---- | :-------- | :------- |
 | Sep 17, 2026 | Acadia (Zeta) | Dynamic Programming | [Slides](../files/cpscp/dp_slides.pdf) | Ruben Becker |
 | Sep 24, 2026 | Acadia (Zeta) | Graph Visits | | Riccardo Maso |
-| Oct 1, 2026 | Acadia (Zeta) | Minimum Spanning Trees | | Davide Cologni |
-| Oct 8, 2026 | Acadia (Zeta) | Programming Contest | | |
+| Oct 12, 2026 | Acadia (Zeta) | Minimum Spanning Trees | | Davide Cologni |
+| Oct 19, 2026 | Acadia (Zeta) | Programming Contest | | |
 
 ### Summer Semester 2026
 
