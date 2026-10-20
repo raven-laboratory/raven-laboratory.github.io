@@ -23,7 +23,7 @@ The group is meant for students who want to improve their theoretical and practi
 - **Collaborative Work:** We practice addressing complex problems in a group by effective collaboration.
 - **Deepening Algorithmic Knowledge:** We go beyond the material of standard algorithms courses.
 
-With our meetings we prepare teams to participate in international contests such as **ITACPC**, **SWERC**, and **ICPC**. Besides this, our meetings alo provide the perfect preparation for technical job interviews at top-tier tech companies (like Google or Meta).
+With our meetings, we prepare teams to participate in international contests such as **ITACPC**, **SWERC**, and **ICPC**. Besides this, our meetings alo provide the perfect preparation for technical job interviews at top-tier tech companies (like Google or Meta).
 
 ## Archive & Materials 
 _This archive is updated weekly with the topics covered and relevant resources._
@@ -33,7 +33,7 @@ _This archive is updated weekly with the topics covered and relevant resources._
 | Date | Room | Topic | Materials | Lecturer |
 | :--- | :--- | :---- | :-------- | :------- |
 | Sep 17, 2026 | Acadia (Zeta) | Dynamic Programming | [Slides](../files/cpscp/dp_slides.pdf) | Ruben Becker |
-| Sep 24, 2026 | Acadia (Zeta) | Graph Visits | | Riccardo Maso |
+| Sep 24, 2026 | Acadia (Zeta) | Graph Visits | [Slides](../files/cpscp/cscp-traversal.pdf) | Riccardo Maso |
 | Oct 12, 2026 | Acadia (Zeta) | Minimum Spanning Trees | | Davide Cologni |
 | Oct 19, 2026 | Acadia (Zeta) | Programming Contest | | |
 
