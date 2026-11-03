@@ -8,6 +8,10 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);

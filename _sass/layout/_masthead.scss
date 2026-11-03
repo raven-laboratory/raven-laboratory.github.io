@@ -2,6 +2,16 @@
    MASTHEAD
    ========================================================================== */
 
+#site-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  @include breakpoint(max-width $small) {
+    justify-content: space-between;
+  }
+}
+
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
